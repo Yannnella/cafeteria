@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/blackfriday-2025.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-11-20T09:09:33-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10054250692890</id>
+    <published>2025-11-20T09:09:33-03:00</published>
+    <updated>2025-11-20T09:09:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-doble-ceramica-230-ml-blanca"/>
+    <title>Taza Cerámica Cappuccino 230 ML Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-ceramica-cappuccino-230-ml-blanco-6467936.png?v=1778077333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            8792
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nueva taza de cerámica de doble pared, color blanco. Exclusivo acabado, ideal para preparaciones a base de leche.</p>
+<p>Capacidad 230ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10054250692890</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">8792</s:price>
+      <s:sku>ATAZ1129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10054250561818</id>
+    <published>2025-11-20T09:09:08-03:00</published>
+    <updated>2025-11-20T09:09:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-ceramica-150-ml-blanca"/>
+    <title>Set 2 Tazas Cerámica Lungo 150 ML Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-lungo-150-ml-blanco-7073363.png?v=1778077334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            16990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nuevas tazas de cerámica de doble pared para lungo, únicas en su estilo.</p>
+<p>Set de 2 unidades, color blanco.</p>
+<p>Capacidad 150ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10054250561818</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">16990</s:price>
+      <s:sku>ATAZ1128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10054250496282</id>
+    <published>2025-11-20T09:08:51-03:00</published>
+    <updated>2025-11-20T09:08:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-ceramica-80-ml-blanca"/>
+    <title>Set 2 Tazas Cerámica Espresso 80 ML Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-ceramica-espresso-80-ml-blanco-5752290.png?v=1778077335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            14990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nuevas tazas de cerámica de doble pared para espresso, únicas en su estilo.</p>
+<p>Set de 2 unidades. Color Blanco.</p>
+<p>Capacidad 80ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10054250496282</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">14990</s:price>
+      <s:sku>ATAZ1127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9882819985690</id>
+    <published>2025-06-03T21:24:51-04:00</published>
+    <updated>2025-06-03T21:24:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/dripper-ceramica-origami-rojo"/>
+    <title>Origami Ceramica Rojo</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-rojo-6505417.png?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            14990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>El Origami Dripper es uno de los métodos de preparación de café más populares y recientes, tiene la capacidad de preparar hasta 4 tazas de café. Su nombre está inspirado en el arte del origami, el cual consiste en el doblado de papel, reflejando así su diseño que emula las elegantes y coloridas creaciones de este arte.</span></p>
+<p><span>Este dripper es ampliamente utilizado en campeonatos mundiales de barismo y se ha convertido en una moda entre los amantes del café. El Origami se caracteriza por su forma, que facilita una rápida extracción del café con un mayor flujo de oxígeno durante la preparación, lo que permite crear recetas versátiles.</span></p>
+<p><span>Toda una experencia.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9882819985690</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">14990</s:price>
+      <s:sku>ACAF1100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9709760479514</id>
+    <published>2024-12-04T12:13:32-03:00</published>
+    <updated>2024-12-04T12:13:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/portacapsulas-negro"/>
+    <title>Portacápsulas Negro</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/portacapsulas-negro-2702453.webp?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organiza tus cápsulas de café de forma elegante y funcional con nuestro portacápsulas de metal negro. Diseñado específicamente para cápsulas compatibles con Nespresso, este accesorio combina estilo y practicidad.</p>
+<ul>
+<li>
+<strong>Diseño moderno:</strong> Su acabado en metal negro aporta un toque sofisticado a tu cocina u oficina.</li>
+<li>
+<strong>Gran capacidad:</strong> Mantén tus cápsulas ordenadas y siempre a mano.</li>
+<li>
+<strong>Duradero y resistente:</strong> Fabricado con materiales de alta calidad para una larga vida útil.</li>
+<li>
+<strong>Ahorra espacio:</strong> Su diseño compacto y vertical optimiza el uso del espacio.</li>
+</ul>
+<p>Convierte tu rincón de café en un lugar aún más especial.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capsula</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9709760479514</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>AOTR1084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831747817754</id>
+    <published>2024-02-27T09:01:41-03:00</published>
+    <updated>2024-02-27T09:01:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-ceramica-origami-blanco"/>
+    <title>Origami Ceramica Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-blanco-6994945.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            14990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>El Origami Dripper es uno de los métodos de preparación de café más populares y recientes, tiene la capacidad de preparar hasta 4 tazas de café. Su nombre está inspirado en el arte del origami, el cual consiste en el doblado de papel, reflejando así su diseño que emula las elegantes y coloridas creaciones de este arte.</p>
+<p>Este dripper es ampliamente utilizado en campeonatos mundiales de barismo y se ha convertido en una moda entre los amantes del café. El Origami se caracteriza por su forma, que facilita una rápida extracción del café con un mayor flujo de oxígeno durante la preparación, lo que permite crear recetas versátiles.</p>
+<p>Toda una experencia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafetera</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>driper</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831747817754</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">14990</s:price>
+      <s:sku>ACAF1038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749554458</id>
+    <published>2024-01-19T13:02:57-03:00</published>
+    <updated>2024-01-19T13:02:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cuchara-negra-cafe-grano"/>
+    <title>Cuchara dosificadora blanca</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-blanca-9037249.jpg?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuchara dosificadora para café de grano o molido.</p>
+<p>Capacidad 10gramos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cucharas</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749554458</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>APRE1016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749194010</id>
+    <published>2024-01-19T10:20:19-03:00</published>
+    <updated>2024-01-19T10:20:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cuchara-menta-cafe-grano"/>
+    <title>Cuchara dosificadora menta</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-menta-5397810.jpg?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuchara dosificadora de café en grano o molido.</p>
+<p>Capacidad 10gramos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cucharas</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749194010</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>APRE1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750439194</id>
+    <published>2023-11-20T18:26:05-03:00</published>
+    <updated>2023-11-20T18:26:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-brasil"/>
+    <title>Cápsulas de Café Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-brasil-8717440.webp?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong>Cápsulas de café origen Brasil</strong></p>
+<p data-start="0" data-end="270">Brasil es un café de especialidad compatible con Nespresso, de tueste medio-alto. Este café representa el clásico y reconocido sabor del gigante productor de café, con un perfil intensamente achocolatado, notas especiadas, baja acidez y un cuerpo cremoso y envolvente.</p>
+<p data-start="272" data-end="354">Es ideal para mezclas con leche, como cappuccinos, lattes y otras preparaciones.</p>
+<p data-start="356" data-end="440" data-is-last-node="">Disfruta estas excelentes cápsulas compatibles con Nespresso en su versión espresso.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula compostable</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750439194</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750439194</id>
+      <title>10 UNIDADES / COMPOSTABLE</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750242586</id>
+    <published>2023-11-20T18:26:01-03:00</published>
+    <updated>2023-11-20T18:26:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-espresso"/>
+    <title>Set 2 Tazas Espresso 80 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-espresso-80-ml-1641856.jpg?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            9592
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas de vidrio doble pared 80ml.</p>
+<p>Perfectas para espresso.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>accesorios yuju</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:tag>vidrio</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750242586</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">9592</s:price>
+      <s:sku>ATAZ1025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750144282</id>
+    <published>2023-11-20T18:25:59-03:00</published>
+    <updated>2023-11-20T18:25:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-ignite-cafe"/>
+    <title>Cápsulas de café Ignite</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-ignite-2733679.webp?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Ignite</strong></p>
+<p data-start="132" data-end="375"><strong data-start="132" data-end="142">Ignite</strong> es un blend de cafés especiales cuidadosamente seleccionado con granos de Sudamérica y Asia. Es nuestro café más oscuro, intenso y tostado, diseñado para quienes buscan un impacto poderoso en cada taza, sin comprometer la calidad ya que contiene cafés frescos y sobre 80 puntos.</p>
+<p data-start="377" data-end="580">Su perfil sensorial ofrece notas amargas y profundas de chocolate bitter, un sutil dejo a tabaco y un final especiado con toques de pimienta, creando una experiencia de sabor audaz y llena de carácter.</p>
+<p data-start="582" data-end="664">Perfecto para espresso y preparaciones con leche como cappuccinos, lattes y más.</p>
+<p data-start="666" data-end="698"><strong data-start="666" data-end="696">Una redefinición del café.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de India</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula Compostable</s:tag>
+    <s:tag>Capsula de Aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Compostable</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750144282</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750144282</id>
+      <title>10 UNIDADES / COMPOSTABLE</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831748014362</id>
+    <published>2023-11-20T18:25:25-03:00</published>
+    <updated>2023-11-20T18:25:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-moka-italiana-6tazas-negra"/>
+    <title>Cafetera Moka Italiana 400ml roja DHPO</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-400ml-roja-dhpo-4249926.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            44994
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Moderna cafetera Moka Italiana roja</strong></p>
+<p data-start="129" data-end="288">Esta elegante cafetera Italiana cuenta con un acabado negro cromado y un mango de madera, brindándole un diseño único para preparar un exquisito café de grano molido.</p>
+<p data-start="290" data-end="375">La estructura compacta de la cafetera y su capacidad de 400 ml la hacen ideal para cualquier espacio.</p>
+<p data-start="377" data-end="457">Sin duda, añadirá un toque distintivo tanto a tu preparación como al ambiente.</p>
+<p data-start="459" data-end="519">¡Descubre la experiencia de esta innovadora cafetera moka!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafeteras</s:tag>
+    <s:tag>moka</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831748014362</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">44994</s:price>
+      <s:sku>ACAF1070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

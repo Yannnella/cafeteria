@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/molinos.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-08-07T12:33:41-04:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/9964299288858</id>
+    <published>2025-08-07T12:33:41-04:00</published>
+    <updated>2025-08-07T12:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/molinillo-gris-cobre-1078"/>
+    <title>Molinillo Pro Titanio Cobre</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/molinillo-pro-titanio-cobre-5595772.png?v=1778077391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            79990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="88" data-end="170"><strong data-start="88" data-end="168">Molinillo de Café de Alta Precisión – Ajustes Versátiles y Muelas de Titanio</strong></p>
+<p data-start="172" data-end="591">Mejora tu experiencia cafetera con este exclusivo molinillo de café de alta precisión. Diseñado para ofrecer un amplio rango de ajustes, permite personalizar la molienda de tu café para distintos métodos de preparación, desde espresso hasta prensa francesa. Sus muelas recubiertas de titanio garantizan una mayor durabilidad y consistencia en cada molienda, asegurando extracciones perfectas y un sabor excepcional en cada taza.</p>
+<p data-start="593" data-end="656"><strong data-start="593" data-end="654">El siguiente paso para llevar tu café al siguiente nivel.</strong></p>
+<p><strong>Características:</strong></p>
+<ul>
+<li>Color gris con detalles dorados.</li>
+<li>Capacidad de 25 gramos.</li>
+<li>24 ajustes de molienda por ronda.</li>
+<li>Muelas de 38 mm con 6 núcleos recubiertos en titanio.</li>
+</ul>
+<p>Incluye manual y kit de limpieza.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accesorio de Cafe</s:tag>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Molinillo de Cafe</s:tag>
+    <s:tag>molinos</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9964299288858</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">79990</s:price>
+      <s:sku>AMOL1112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9619643760922</id>
+    <published>2025-03-09T11:04:19-03:00</published>
+    <updated>2025-03-09T11:04:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/molinillo-gris-1078"/>
+    <title>Molinillo De Café Pro Titanio</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/molinillo-de-cafe-pro-titanio-7174185.png?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            79990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="88" data-end="170"><strong data-start="88" data-end="168">Molinillo de Café de Alta Precisión – Ajustes Versátiles y Muelas de Titanio</strong></p>
+<p data-start="172" data-end="591">Mejora tu experiencia cafetera con este exclusivo molinillo de café de alta precisión. Diseñado para ofrecer un amplio rango de ajustes, permite personalizar la molienda de tu café para distintos métodos de preparación, desde espresso hasta prensa francesa. Sus muelas recubiertas de titanio garantizan una mayor durabilidad y consistencia en cada molienda, asegurando extracciones perfectas y un sabor excepcional en cada taza.</p>
+<p data-start="593" data-end="656"><strong data-start="593" data-end="654">El siguiente paso para llevar tu café al siguiente nivel.</strong></p>
+<p><strong>Características:</strong></p>
+<ul>
+<li>Color gris con detalles dorados.</li>
+<li>Capacidad de 25 gramos.</li>
+<li>24 ajustes de molienda por ronda.</li>
+<li>Muelas de 38 mm con 6 núcleos recubiertos en titanio.</li>
+</ul>
+<p>Incluye manual y kit de limpieza.</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>moledor manual</s:tag>
+    <s:tag>molinos</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9619643760922</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">79990</s:price>
+      <s:sku>AMOL1081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

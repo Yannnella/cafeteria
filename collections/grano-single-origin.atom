@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/grano-single-origin.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-03-02T09:31:40-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/9621912912154</id>
+    <published>2026-03-02T09:31:40-03:00</published>
+    <updated>2026-03-02T09:31:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-honduras-fundacion-227-grs"/>
+    <title>Café de Honduras Proyecto Jovenes Lideres</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-de-honduras-proyecto-jovenes-lideres-5079176.png?v=1778077513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/caja-honduras-fundacion-227-grs">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Honduras proyecto Pioneros Climaticos</strong></p>
+<p>Estamos felices de presentarte un café cargado de valor y pasión. Este café de origen Honduras es producido por los jóvenes participantes del proyecto social llamado <strong>"Juventudes Pioneras Climáticas"</strong>, gestionado por la Fundación Hanns R. Neumann Stiftung y apoyado por Blackdrop coffee. Este proyecto se lleva a cabo en Honduras, en la región de Ocotepeque, especificamente en la comunidad de Las Lajitas, donde se empodera de manera directa a las nuevas generaciones de productores para adoptar prácticas resilientes frente al cambio climático. </p>
+<p>Disfruta este gran y versatil café en metodos de filtrado y espresso.</p>
+<p><strong>Un café con futuro.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>Dia de la madre</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750734106</id>
+    <published>2023-12-04T17:01:16-03:00</published>
+    <updated>2023-12-04T17:01:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad"/>
+    <title>Café Origen Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-etiopia-8223412.png?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Etiopía</strong></p>
+<p data-start="0" data-end="305">Etiopía es un café <strong data-start="19" data-end="36">single origin</strong> de la región de Guji, elaborado mediante un proceso de fermentación natural en camas africanas. Un café reconocido por su perfil frutal característico, destaca por su dulzura notable y sus vibrantes notas a frutos rojos y vino, envolviendo el paladar con un cuerpo delicado.</p>
+<p data-start="307" data-end="466" data-is-last-node="">Este café de grano es ideal para preparar en métodos de filtrado y espresso. Directamente desde la cuna del café, una experiencia de origen que no te puedes perder.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750537498</id>
+    <published>2023-12-04T17:01:02-03:00</published>
+    <updated>2023-12-04T17:01:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad"/>
+    <title>Café Origen Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-brasil-9447061.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Brazil</strong></p>
+<p data-start="0" data-end="260">Sumérgete en la experiencia de un café de especialidad de origen Brazil y de proceso natural. Su perfil cremoso, realzado por una distintiva nota achocolatada, refleja la esencia del grano brasileño. Este café es ideal para preparaciones con leche, como cappuccinos o lattes.</p>
+<p data-start="262" data-end="406" data-is-last-node="">Descubre la versatilidad de este café de especialidad, perfecto para preparar en cafeteras espresso, moka o prensa francesa. No te pierdas este viaje sensorial.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750570266</id>
+    <published>2023-12-04T16:57:53-03:00</published>
+    <updated>2023-12-04T16:57:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-colombia-grano-especialidad"/>
+    <title>Café Origen Colombia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-colombia-6094340.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-colombia-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Colombia</strong></p>
+<div class="flex flex-col text-sm pb-25">
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" data-turn-id="request-WEB:8e4630d5-3914-461a-b2b8-640dd0f07a15-0" data-testid="conversation-turn-2" data-scroll-anchor="true" data-turn="assistant" tabindex="-1">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div data-message-author-role="assistant" data-message-id="d267e9ba-3d6d-4804-9b71-c61aaac33e7b" dir="auto" data-message-model-slug="gpt-5-2" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="0" data-end="383">Café de especialidad proveniente de <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Colombia</span></span>, de la región de <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Belén de Umbría</span></span>, específicamente de la finca Samaria, liderada por la familia Osorio. Este café ofrece un perfil acaramelado, con matices cítricos, notas a panela y chocolate, clásicos del café colombiano, culminando en una taza limpia y balanceada.</p>
+<p data-start="385" data-end="535">Es un café de variedad Tabi, de proceso lavado con fermentación de 12 horas y secado al sol, encarnando toda la tradición colombiana.</p>
+<p data-start="537" data-end="736" data-is-last-node="" data-is-only-node="">Preparalo en métodos filtrados o en espresso. Destaca por su gran versatilidad y merece ser disfrutado en distintos momentos, brindando una experiencia única en cada sorbo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

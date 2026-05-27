@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/descuento-por-volumen-jonytips.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-10-29T13:33:10-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10032461021466</id>
+    <published>2025-10-29T13:33:10-03:00</published>
+    <updated>2025-10-29T13:33:10-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-geometrica-smoked"/>
+    <title>Set 2 Tazas Geometric Smoke 80 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-geometric-smoke-80-ml-9679874.png?v=1778077335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            11990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas doble vidrio geometricas para café.</p>
+<p>Innovador diseño smoke para preparar tu café con un estilo sin precedentes.</p>
+<p>Capacidad 80 ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10032461021466</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">11990</s:price>
+      <s:sku>ATAZ1125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750504730</id>
+    <published>2025-10-28T16:42:48-03:00</published>
+    <updated>2025-10-28T16:42:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-etiopia"/>
+    <title>Cápsulas de Café Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-etiopia-7505609.webp?v=1778077512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de origen Etiopía</strong></p>
+<p data-start="0" data-end="186">Etiopía es un origen fascinante. Proveniente de la región de Sidama, este café de especialidad es procesado mediante el método natural y secado en camas africanas, ofreciéndonos un perfil excepcionalmente frutal.</p>
+<p data-start="188" data-end="381">Con un tueste medio cuidadosamente realizado para maximizar su dulzor, este café revela un carácter distintivo que combina la vibrante frescura de los frutos rojos con sutiles notas florales y un sutil cuerpo.</p>
+<p data-start="383" data-end="408">Ideal para disfrutar en espresso.</p>
+<p data-start="410" data-end="481" data-is-last-node="">Una cápsula realmente especial, con cafés frescos y llenos de historia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750504730</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750734106</id>
+    <published>2023-12-04T17:01:16-03:00</published>
+    <updated>2023-12-04T17:01:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad"/>
+    <title>Café Origen Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-etiopia-8223412.png?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Etiopía</strong></p>
+<p data-start="0" data-end="305">Etiopía es un café <strong data-start="19" data-end="36">single origin</strong> de la región de Guji, elaborado mediante un proceso de fermentación natural en camas africanas. Un café reconocido por su perfil frutal característico, destaca por su dulzura notable y sus vibrantes notas a frutos rojos y vino, envolviendo el paladar con un cuerpo delicado.</p>
+<p data-start="307" data-end="466" data-is-last-node="">Este café de grano es ideal para preparar en métodos de filtrado y espresso. Directamente desde la cuna del café, una experiencia de origen que no te puedes perder.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750471962</id>
+    <published>2023-11-20T18:26:05-03:00</published>
+    <updated>2023-11-20T18:26:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-colombia"/>
+    <title>Cápsulas de Café Colombia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-colombia-9424394.webp?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café origen Colombia</strong></p>
+<p data-start="0" data-end="303">Colombia es un café de especialidad proveniente de la región de Tolima, procesado mediante el método lavado, el cual le otorga un perfil limpio y definido. Se caracteriza por su sabor persistente, con notas frutales, en especial de frutas amarillas y panela, además de un cuerpo delicado y una textura cremosa.</p>
+<p data-start="305" data-end="407">Este café refleja a la perfección el perfil característico del Eje Cafetero colombiano. </p>
+<p data-start="409" data-end="512" data-is-last-node="">Una cápsula compatible con Nespresso que redefine la expresión de sabores en este formato.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750471962</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750439194</id>
+    <published>2023-11-20T18:26:05-03:00</published>
+    <updated>2023-11-20T18:26:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-brasil"/>
+    <title>Cápsulas de Café Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-brasil-8717440.webp?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong>Cápsulas de café origen Brasil</strong></p>
+<p data-start="0" data-end="270">Brasil es un café de especialidad compatible con Nespresso, de tueste medio-alto. Este café representa el clásico y reconocido sabor del gigante productor de café, con un perfil intensamente achocolatado, notas especiadas, baja acidez y un cuerpo cremoso y envolvente.</p>
+<p data-start="272" data-end="354">Es ideal para mezclas con leche, como cappuccinos, lattes y otras preparaciones.</p>
+<p data-start="356" data-end="440" data-is-last-node="">Disfruta estas excelentes cápsulas compatibles con Nespresso en su versión espresso.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula compostable</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750439194</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750439194</id>
+      <title>10 UNIDADES / COMPOSTABLE</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750308122</id>
+    <published>2023-11-20T18:26:02-03:00</published>
+    <updated>2023-11-20T18:26:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-terra-lungo"/>
+    <title>Cápsulas de café Terralungo</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-terralungo-1961962.webp?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Terralungo</strong></p>
+<p data-start="36" data-end="270">Terralungo es un blend de tueste medio-alto, diseñado para preparar en lungo, compuesto por cafés de origen Sudamérica y Asia. Su nombre rinde homenaje al terroir de sus orígenes, ofreciendo un café equilibrado en acidez, dulzor y amargor.</p>
+<p data-start="272" data-end="424">Desde el primer sorbo, podrás percibir notas de té negro, seguidas de toques a caramelo que culmina con sutiles matices cítricos.</p>
+<p data-start="426" data-end="494" data-is-last-node="">Disfrútalo en lungo o espresso, un café en cápsulas verdaderamente excepcional.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750308122</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750144282</id>
+    <published>2023-11-20T18:25:59-03:00</published>
+    <updated>2023-11-20T18:25:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-ignite-cafe"/>
+    <title>Cápsulas de café Ignite</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-ignite-2733679.webp?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Ignite</strong></p>
+<p data-start="132" data-end="375"><strong data-start="132" data-end="142">Ignite</strong> es un blend de cafés especiales cuidadosamente seleccionado con granos de Sudamérica y Asia. Es nuestro café más oscuro, intenso y tostado, diseñado para quienes buscan un impacto poderoso en cada taza, sin comprometer la calidad ya que contiene cafés frescos y sobre 80 puntos.</p>
+<p data-start="377" data-end="580">Su perfil sensorial ofrece notas amargas y profundas de chocolate bitter, un sutil dejo a tabaco y un final especiado con toques de pimienta, creando una experiencia de sabor audaz y llena de carácter.</p>
+<p data-start="582" data-end="664">Perfecto para espresso y preparaciones con leche como cappuccinos, lattes y más.</p>
+<p data-start="666" data-end="698"><strong data-start="666" data-end="696">Una redefinición del café.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de India</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula Compostable</s:tag>
+    <s:tag>Capsula de Aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Compostable</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750144282</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750144282</id>
+      <title>10 UNIDADES / COMPOSTABLE</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750111514</id>
+    <published>2023-11-20T18:25:59-03:00</published>
+    <updated>2023-11-20T18:25:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-descafeinado"/>
+    <title>Cápsulas de café Neodecaf</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-neodecaf-7793114.webp?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490 - 32990
+            <a href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-descafeinado">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Neodecaf</strong></p>
+<p data-start="34" data-end="203">Neodecaf es un café de origen Colombia descafeinado de forma natural mediante el proceso Swiss Water, el cual utiliza un extracto de caña de azúcar como disolvente.</p>
+<p data-start="205" data-end="349">Este café en cápsulas ofrece un sabor achocolatado con toques de tabaco y un gran cuerpo, ofreciendo un café descafeinado autentico y fresco.</p>
+<p data-start="351" data-end="376">Disfrútalo en espresso.</p>
+<p data-start="378" data-end="428" data-is-last-node="">Un café en cápsulas que te acompañará a toda hora.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750111514</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750111514</id>
+      <title>50 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">32990</s:price>
+      <s:sku>CCAP2058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750078746</id>
+    <published>2023-11-20T18:25:58-03:00</published>
+    <updated>2023-11-20T18:25:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-connection"/>
+    <title>Cápsulas de café Connections</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-connections-7139122.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Connections</strong></p>
+<p data-start="37" data-end="277">Connections es un blend atípico compuesto por cafés de tres orígenes, Sudamérica, Asia y África. Diseñado para capturar la sinergia de la riqueza de sabores de cada continente, este café en cápsulas ofrece una experiencia sensorial diferente.</p>
+<p data-start="279" data-end="465">Su perfil combina las notas florales de las arábicas africanas, con el carácter amaderado y especiado del café asiático y el perfil achocolatado de Sudamérica, logrando una mezcla envolvente, cremosa y equilibrada.</p>
+<p>Prefierelo en espresso.</p>
+<p>Un café para todo momento.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750078746</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750045978</id>
+    <published>2023-11-20T18:25:57-03:00</published>
+    <updated>2023-11-20T18:25:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-blackbird"/>
+    <title>Cápsulas de café Blackbird</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-blackbird-1795057.webp?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong>Cápsulas de café Blackbird</strong></p>
+<p data-start="35" data-end="291">Blackbird es un blend en cápsulas de café con un carácter e intensidad excepcionalmente alto, diseñado para reinventar el concepto clásico del espresso usando cafés excepcionales e inspirado en la cultura Italiana de cafés. Este blend combina arábicas de Honduras con robustas de Vietnam, creando una experiencia única en cada taza.</p>
+<p data-start="293" data-end="479" data-is-last-node="">Su tueste alto resalta una intensidad penetrante, con una nota principal achocolatada, matices de frutos secos y un persistente retrogusto amaderado que te hará recordar el último sorbo.</p>
+<p class="p1">Prefierelo en espresso.</p>
+<p class="p1">Intensidad y cuerpo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de India</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750045978</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750013210</id>
+    <published>2023-11-20T18:25:57-03:00</published>
+    <updated>2023-11-20T18:25:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-balance"/>
+    <title>Cápsulas de café Balance</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-balance-1798883.webp?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong>Cápsulas compatible Nespresso Balance</strong></p>
+<p data-end="397" data-start="52">La cápsula de café para nespresso Balance es un blend de cafés de especialidad provenientes de Honduras y Colombia. Con un tueste medio, este café es el resultado de la combinación de arábicas de gran calidad, que crean un complejo sabor acaramelado con un sutil retrogusto cítrico y un aroma intenso, logrando una taza muy balanceada.</p>
+<p data-end="469" data-start="399">Un café en cápsulas que aportará armonía a tus mañanas. ¡Imperdible!</p>
+<p data-is-last-node="" data-end="494" data-start="471">Disfrútalo en espresso.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750013210</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

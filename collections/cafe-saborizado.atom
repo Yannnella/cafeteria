@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/cafe-saborizado.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-02-06T13:58:07-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10071142170906</id>
+    <published>2026-02-06T13:58:07-03:00</published>
+    <updated>2026-02-06T13:58:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/salted-caramel-capsulas"/>
+    <title>Cápsulas de café Salted Caramel</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-salted-caramel-2328986.png?v=1778077333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas para Nespresso sabor Salted Caramel</strong></p>
+<p data-start="37" data-end="208">Te presentamos nuestra nueva línea de cápsulas saborizadas con esencias naturales. Combinan y equilibran la autentica intensidad del café con las notas dulces del caramelo saldado logrando un perfil unico y cremoso.</p>
+<p data-start="210" data-end="246">Disfrútalas en espresso o con leche.</p>
+<p data-start="248" data-end="276" data-is-last-node="" data-is-only-node="">Presentación de 10 unidades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10071142170906</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7990</s:price>
+      <s:sku>CCAP2108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104265113882</id>
+    <published>2026-01-22T11:47:26-03:00</published>
+    <updated>2026-01-22T11:47:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-vainilla-5-drip"/>
+    <title>Caja 5 Drip Coffee Vainilla</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-vainilla-4581887.png?v=1778077328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip Coffee Sabor Vainilla</strong></p>
+<p>Te presentamos la nueva línea de Drip Coffee Flavored, una mezcla de cafés de especialidad de Brasil con esencia natural de vainilla. La sinergia de sabores da origen a un café achocolatado, con sutiles notas de vainilla, que conforman una mezcla delicada y envolvente.</p>
+<div class="flex flex-col text-sm pb-25">
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" data-turn-id="request-WEB:17cb33e1-15e1-4966-8d0d-6299f9a91e4a-4" data-testid="conversation-turn-10" data-scroll-anchor="true" data-turn="assistant" tabindex="-1">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div data-message-author-role="assistant" data-message-id="99423d1c-078f-49cd-9a06-9dcaa325742f" dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" data-message-model-slug="gpt-5-2">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="0" data-end="75" data-is-last-node="" data-is-only-node="">Disfruta este práctico formato, ahora con un sabor único a café y vainilla.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<p>Presentacion: 5 Drip Coffee Vainilla</p>
+<p><strong>DRINK GOOD COFFEE</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104265113882</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104264950042</id>
+    <published>2026-01-22T11:47:06-03:00</published>
+    <updated>2026-01-22T11:47:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-salted-caramel-5-drip"/>
+    <title>Caja 5 Drip Coffee Salted Caramel</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-salted-caramel-1374419.png?v=1778077327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip Coffee Salted Caramel</strong></p>
+<p>Disfruta este práctico formato ahora con un irresistible sabor a café y salted caramel. Esta propuesta combina café de especialidad de Brasil con esencia natural de caramelo salado, logrando una armonía equilibrada entre dulzor, notas achocolatadas y un sutil contraste dulce. </p>
+<p>El resultado es un café de perfil envolvente y elegante, ideal para quienes buscan una experiencia distinta sin perder la identidad del buen café.</p>
+<p>Presentacion: 5 Drip Coffee Salted Caramel</p>
+<p><strong>DRINK GOOD COFFEE</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104264950042</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104264851738</id>
+    <published>2026-01-22T11:46:49-03:00</published>
+    <updated>2026-01-22T11:46:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-masala-chai-5-drip"/>
+    <title>Caja 5 Drip Coffee Masala Chai</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-masala-chai-5809872.png?v=1778077327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip Coffee Masala Chai</strong></p>
+<p>Te presentamos la nueva línea Flavored Drip Coffee, con fascinantes perfiles en el práctico formato drip. En esta oportunidad, presentamos la fusión de café de especialidad de Brasil con auténtico masala chai molido natural, creando una sinergia de sabores entre notas especiadas y achocolatadas, propias del café, que resulta simplemente imperdible.</p>
+<p>Un café para disfrutar a toda hora del dia, solo o con leche como tu prefieras.</p>
+<p>Presentacion: 5 Drip coffee Masala Chai</p>
+<p><strong>DRINK GOOD COFFEE</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104264851738</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104264720666</id>
+    <published>2026-01-22T11:45:37-03:00</published>
+    <updated>2026-01-22T11:45:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-evolve-5-drip"/>
+    <title>Caja 5 Drip Coffee Evolve</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/drip_d08e0b61-4959-47f9-ac28-1e5ee186a703.gif?v=1769093389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip Coffee Blend Evolve</strong></p>
+<p data-start="0" data-end="218">Evolve es un blend de tres orígenes fascinantes. Etiopía, Colombia y Honduras. Esta combinación crea una sinergia de sabores dulces y achocolatados, que ahora puedes disfrutar en formato drip coffee y en café de grano.</p>
+<p data-start="220" data-end="296" data-is-last-node="" data-is-only-node="">Un perfil innovador que representa nuevas tendencias en el consumo de cafés.</p>
+<p>Presentación:</p>
+<p>5 Drip Coffee Blend Evolve</p>
+<p><strong>DRINK GOOD COFFEE</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104264720666</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104263606554</id>
+    <published>2026-01-22T11:36:03-03:00</published>
+    <updated>2026-01-22T11:36:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/masala-chai-grano-molido"/>
+    <title>Café Sabor Masala Chai</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-masala-chai-7468949.png?v=1778077329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Café molido con Masala Chai molido</span></span></strong></p>
+<p data-start="0" data-end="274"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Te presentamos una combinación única, Masala Chai y café de especialidad de origen Brasil, mezclado con auténtico masala chai molido, elaborado a partir de una mezcla real de especias. El carácter especiado proviene directamente de ingredientes naturales.</span></span></p>
+<p data-start="276" data-end="501" data-is-last-node="" data-is-only-node=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">El resultado es una taza aromática y envolvente, donde la base achocolatada y de cuerpo cremoso del café se entrelaza con notas especiadas, aportando complejidad, intensidad aromática y un final largo.</span></span></p>
+<p data-start="276" data-end="501" data-is-last-node="" data-is-only-node=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Disfrútalo solo o con preparaciones a base de leche.</span></span></p>
+<p data-start="243" data-end="440" data-is-last-node="" data-is-only-node=""><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Presentación 227 gr molido.</span></span></p>
+<p data-is-only-node="" data-is-last-node="" data-end="377" data-start="231"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Beber buen café</span></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104263606554</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104263409946</id>
+    <published>2026-01-22T11:35:49-03:00</published>
+    <updated>2026-01-22T11:35:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/vainilla-grano-molido"/>
+    <title>Café Sabor Vainilla</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-vainilla-4243331.png?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Café molido sabor Vainilla</span></span></strong></p>
+<p data-end="241" data-start="0"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descubre esta nueva propuesta de café &amp; vainilla, una elegante mezcla de café de especialidad con esencia natural de French Vainilla. Este café de origen Brasil incorpora notas achocolatadas que junto a delicadas notas de vainilla realzan su carácter, sin opacar su identidad.</span></span></p>
+<p data-is-only-node="" data-is-last-node="" data-end="440" data-start="243"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En taza, ofrece una experiencia suave y envolvente, donde la dulzura aromática de la vainilla se integra con un cuerpo cremoso y matices achocolatados, logrando un resultado armónico y persistente.</span></span></p>
+<p data-is-only-node="" data-is-last-node="" data-end="440" data-start="243"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Presentacion 227 gr molido.</span></span></p>
+<p data-start="231" data-end="377" data-is-last-node="" data-is-only-node=""><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">DRINK GOOD COFFEE</span></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104263409946</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104263377178</id>
+    <published>2026-01-22T11:35:36-03:00</published>
+    <updated>2026-01-22T11:35:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/salted-caramel-grano-molido"/>
+    <title>Café Sabor Salted Caramel</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-sabor-salted-caramel-1456800.png?v=1778077329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">Café molido sabor Caramelo Salado</span></span></span></span></strong></p>
+<p data-start="0" data-end="229"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">Te presentamos nuestra nueva línea Flavored, cafés de especialidad saborizados de forma natural, con sabores cuidadosamente seleccionados. En esta ocasión, presentamos un café de origen Brasil con esencia de caramelo salado.</span></span></span></span></p>
+<p data-start="231" data-end="377" data-is-last-node="" data-is-only-node=""><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">Disfruta un perfil balanceado, con una base achocolatada</span></span><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"> y cremosa propia del café de Brasil, complementada con sutiles notas de caramelo salado.</span></span></span></span></p>
+<p data-start="231" data-end="377" data-is-last-node="" data-is-only-node=""><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">Disfrútalo como prefieres solo o con preparaciones a base de leche.</span></span></span></span></p>
+<p data-start="231" data-end="377" data-is-last-node="" data-is-only-node=""><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">Presentación 227 gr molido.</span></span></span></span></p>
+<p data-start="231" data-end="377" data-is-last-node="" data-is-only-node=""><strong><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto"><span style="vertical-align: inherit;" dir="auto">DRINK GOOD COFFEE</span></span></span></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104263377178</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10065693802778</id>
+    <published>2025-12-04T13:31:52-03:00</published>
+    <updated>2025-12-04T13:31:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/chai-capsulas"/>
+    <title>Cápsulas de café Masala Chai</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-masala-chai-9280745.png?v=1778077332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas para Nespresso sabor Masala Chai</strong></p>
+<p data-start="37" data-end="208">Te presentamos nuestra nueva línea de cápsulas saborizadas con esencias naturales. Combinan y equilibran la autentica intensidad del café con las notas de especias propias del chai. No te puedes perder estas cápsulas de café saborizadas.</p>
+<p data-start="210" data-end="246">Disfrútalas en espresso o con leche.</p>
+<p data-start="248" data-end="276" data-is-last-node="" data-is-only-node="">Presentación de 10 unidades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10065693802778</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7990</s:price>
+      <s:sku>CCAP2110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10065692328218</id>
+    <published>2025-12-04T13:27:17-03:00</published>
+    <updated>2025-12-04T13:27:17-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/amaretto-capsulas"/>
+    <title>Cápsulas de café Amaretto</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-amaretto-2056928.png?v=1778077332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas para Nespresso sabor Amaretto</strong></p>
+<p data-start="37" data-end="208">Te presentamos nuestra nueva línea de cápsulas saborizadas con esencias naturales. Combinan y equilibran la auténtica intensidad del café con las notas dulces y aromáticas del amaretto. Un perfil distinto que no deja indiferente a nadie.</p>
+<p data-start="210" data-end="246">Disfrútalas en espresso o con leche.</p>
+<p data-start="248" data-end="276" data-is-last-node="" data-is-only-node="">Presentación de 10 unidades.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula Compostable</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>sabor</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10065692328218</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7990</s:price>
+      <s:sku>CCAP2109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

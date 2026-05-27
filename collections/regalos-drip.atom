@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/regalos-drip.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-04-23T20:03:51-04:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10200606998810</id>
+    <published>2026-04-23T20:03:51-04:00</published>
+    <updated>2026-04-23T20:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-16-drips-rectangular-ddm"/>
+    <title>Pack 16 Drip Coffee A Daily Pause</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-16-drip-coffee-a-daily-pause-9877708.webp?v=1778077148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Pack 16 Drip Coffee A Daily Pause — Día de la Madre</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Regálale a mamá una pausa que se merece. Esta elegante caja de diseño experiencial reúne 16 drip coffees de destacados orígenes únicos, una invitación a descubrir perfiles de sabor extraordinarios: cítricos, dulces y achocolatados.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Porque cada taza es un momento solo para ella. Su práctico formato drip permite prepararlo en cualquier lugar, solo necesitas agua caliente.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Incluye:</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Colombia</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Siena</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Etiopía</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Evolve</li>
+<li class="whitespace-normal break-words pl-2">4 Drip Coffee Origen Brasil</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Drink Good Coffee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10200606998810</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>RDRI3108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10200607293722</id>
+    <published>2026-04-23T08:31:14-04:00</published>
+    <updated>2026-04-23T08:31:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-taza-7-drip-ddm"/>
+    <title>Pack Drip Coffee &amp; Taza Geometrica A Daily Pause</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-drip-coffee-taza-geometrica-a-daily-pause-7117390.webp?v=1778077148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Pack Drip Coffee &amp; Taza Geometrica A Daily Pause — Día de la Madre</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Celebra a mamá con un regalo tan especial como ella. Esta caja de diseño vanguardista combina elegancia y sabor en un solo presente, perfecto para sorprender en su día.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Con un innovador interior de dos niveles: en el primero, una taza geométrica de doble vidrio de 250 ml; en el segundo, siete drips de café de origen único, seleccionados para regalar una experiencia sensorial inolvidable.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Incluye:</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">2 Drip Coffee Colombia</li>
+<li class="whitespace-normal break-words pl-2">2 Drip Coffee Siena</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Evolve</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Etiopía</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Brasil</li>
+<li class="whitespace-normal break-words pl-2">1 Taza 250ml Geométrica Doble Vidrio</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Porque mamá se merece el mejor café del mundo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos packs</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10200607293722</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>RPAC3120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10183607976218</id>
+    <published>2026-04-14T21:10:04-04:00</published>
+    <updated>2026-04-14T21:10:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-10-drip-best-seller-2026"/>
+    <title>Caja 10 Drip Coffee Best Seller</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-10-drip-coffee-best-seller-4020547.jpg?v=1778077149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>El Pack 10 Drip Best Sellers</strong> te invita a explorar una amplia variedad de sabores, llevándote a vivir una experiencia única con cada sorbo.</p>
+<p>El drip coffee es un método innovador y divertido para preparar café de forma fácil y práctica: solo necesitas agua. Cada sobre contiene 10 gramos de café tostado y molido, perfecto para disfrutar en cualquier lugar al que vayas. ¡Lleva contigo el sabor de la aventura!</p>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Contiene:<br></strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">2 drip coffee origen Brasil<br></span>2 drip coffee blend Black Diamond<br>2 drip coffee blend Siena<br>2 drip coffee origen Etiopía<br>2 drip coffee origen Colombia</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 drip</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>Formato_Drip</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10183607976218</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>RDRI3123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

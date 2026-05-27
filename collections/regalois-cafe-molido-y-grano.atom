@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/regalois-cafe-molido-y-grano.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-01-20T16:29:50-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10075334017306</id>
+    <published>2026-01-20T16:29:50-03:00</published>
+    <updated>2026-01-20T16:29:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-5-doypacks-nav-origen-grano"/>
+    <title>Pack 5 Doypacks Origenes Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-origenes-grano-6231310.png?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack 5 Doypacks Orígenes Grano</strong></p>
+<p>Este un exclusivo pack que celebra la diversidad y la esencia del café de especialidad. Incluye tres doypacks de café en grano cuidadosamente seleccionados, para que explores y disfrutes de sabores únicos de diferentes orígenes.</p>
+<p>Presentado en una elegante caja de cartón duro con cierre magnético y detalles en folia, este diseño único no solo protege la calidad del café, sino que también transforma el pack en un regalo sofisticado y memorable.</p>
+<p>Incluye 5 doypacks con 50 gramos de café:</p>
+<ul>
+<li>Single Origin Etiopia<br>
+</li>
+<li>Single Origin Colombia </li>
+<li>Single Origin Brasil </li>
+<li>Single Origin Peru</li>
+<li>Single Origin Honduras</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075334017306</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>RGRA3099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075333787930</id>
+    <published>2026-01-20T16:26:01-03:00</published>
+    <updated>2026-01-20T16:26:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-3-doypacks-espresso-nav-grano"/>
+    <title>Pack 3 Doypacks Triologia Espresso Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-triologia-espresso-grano-3154054.png?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            15990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de regalo Triologia espresso Grano</strong></p>
+<p>Trilogía Espresso es un <strong>pack de regalo</strong> que reúne tres blends de café que reflejan la evolución del sabor en esta icónica bebida, el <strong>espresso</strong>.</p>
+<p>Desde un clásico espresso intenso y amargo hasta una versión innovadora, dulce y balanceada, cada vez más en tendencia.</p>
+<p>Esta trilogía ofrece una experiencia que sin duda te agradecera.</p>
+<ul>
+<li>Blend Evolve 50g Grano</li>
+<li>Blend Siena 50g Grano</li>
+<li>Blend Black Diamond 50g Grano</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075333787930</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">15990</s:price>
+      <s:sku>RGRA3105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075333853466</id>
+    <published>2025-12-18T16:34:50-03:00</published>
+    <updated>2025-12-18T16:34:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-3-doypacks-espresso-nav-molido"/>
+    <title>Pack 3 Doypacks Triologia Espresso Molido</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-triologia-espresso-molido-9325231.png?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            15990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de regalo Triologia espresso Molido</strong></p>
+<p>Trilogía Espresso es un <strong>pack de regalo</strong> que reúne tres blends de café que reflejan la evolución del sabor en esta icónica bebida, el <strong>espresso</strong>.</p>
+<p>Desde un clásico espresso intenso y amargo hasta una versión innovadora, dulce y balanceada, cada vez más en tendencia.</p>
+<p>Esta trilogía ofrece una experiencia que sin duda te agradecera.</p>
+<ul>
+<li>Blend Evolve 50g Molido</li>
+<li>Blend Siena 50g Molido</li>
+<li>Blend Black Diamond 50g Molido<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075333853466</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">15990</s:price>
+      <s:sku>RMOL3106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075333919002</id>
+    <published>2025-12-18T16:25:11-03:00</published>
+    <updated>2025-12-18T16:25:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-3-doypacks-nav-origen-grano"/>
+    <title>Pack 3 Doypacks Origenes Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-origenes-grano-4783643.png?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            15990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack 3 Doypacks Orígenes Granos</strong></p>
+<p>Este un exclusivo pack que celebra la diversidad y la esencia del café de especialidad. Incluye tres doypacks de café en grano cuidadosamente seleccionados, para que explores y disfrutes de sabores únicos de diferentes orígenes.</p>
+<p>Presentado en una elegante caja de cartón duro con cierre magnético y detalles en folia, este diseño único no solo protege la calidad del café, sino que también transforma el pack en un regalo sofisticado y memorable.</p>
+<p>Incluye 3 doypacks con 50 gramos de café:</p>
+<ul>
+<li>Single Origin Etiopia<br>
+</li>
+<li>Single Origin Colombia </li>
+<li>Single Origin Brasil </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075333919002</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">15990</s:price>
+      <s:sku>RGRA3095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10074354188570</id>
+    <published>2025-12-16T09:18:22-03:00</published>
+    <updated>2025-12-16T09:18:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-5-doypacks-best-seller-nav-grano"/>
+    <title>Pack 5 Doypacks Unique Moments Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-unique-moments-grano-9571619.png?v=1778077336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-path-to-node="4"><strong>Regala una experiencia esta Navidad.</strong></p>
+<p data-path-to-node="5">Hemos creado el pack ideal para quienes disfrutan del café. Esta Colección Navideña reúne cinco bolsas de café de especialidad, recién molido y listo para degustar con lo mejor de nuestra seleccion de cafés.</p>
+<p data-path-to-node="5">Este pack ofrece un recorrido por nuestros blends y single origins. Podrás disfrutar una gama amplia de sabores que transformará tu percepción del café.</p>
+<p data-path-to-node="6">Olvídate de buscar el regalo perfecto. <strong>Aquí lo tienes.</strong></p>
+<p data-path-to-node="7"><strong>Tu Regalo de Café Incluye 5 bolsas de café grano de 50 gramos.</strong></p>
+<ul data-path-to-node="8">
+<li>Blend Black Diamond: Intenso y amargo.</li>
+<li>Origen Colombia: Vibrante y dulce.</li>
+<li>Origen Brasil: Intenso y achocolatado.</li>
+<li>Origen Etiopía: Floral y lleno de matices.</li>
+<li>Blend Evolve: Dulce y Achocolatado.</li>
+</ul>
+<hr data-path-to-node="9">
+<h3 data-path-to-node="10">¿Por qué este es el mejor regalo?</h3>
+<ul data-path-to-node="11">
+<li>
+<p data-path-to-node="11,0,0">Variedad: Cinco perfiles de sabor para descubrir.<br></p>
+</li>
+<li>
+<p data-path-to-node="11,2,0">Fácil de Regalar: Una selección premium con la garantía de calidad Blackdrop.</p>
+</li>
+</ul>
+<p data-path-to-node="12"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10074354188570</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>RGRA3097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10026232381722</id>
+    <published>2025-10-23T10:29:27-03:00</published>
+    <updated>2025-10-23T10:29:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-5-doypacks-femme-molido"/>
+    <title>Pack 5 Doypacks Femme Molido</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-femme-molido-6869469.jpg?v=1778077337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pack de Regalo Mujer </span></span></strong></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Una cuidada selección de sabores de tus medios, balanceados y sutiles da forma a este pack, pensada para ella, para acompañar y sorprender a esa persona tan especial en su día a día.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La experiencia se completa con un elegante diseño que transforma cada sorbo en una sensación única, envolviendo los sentidos con su textura y armonía.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Incluye:</span></span></p>
+<ul>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">50 g de Café Molido Blend Gold City</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">50 g de Café Molido Blend Evolve</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">50 g de café molido descafeinado</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">50g Café Molido Origen Colombia</span></span></li>
+<li><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">50g Café Molido Origen Honduras</span></span></li>
+</ul>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tómate un buen café</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10026232381722</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>RMOL3082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

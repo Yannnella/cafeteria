@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/sale.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-01-22T10:20:35-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10104256397594</id>
+    <published>2026-01-22T10:20:35-03:00</published>
+    <updated>2026-01-22T10:20:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-de-4-vasos-cold-brew"/>
+    <title>Set De 4 Vasos Ice Coffee 400 Ml</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-de-4-vasos-ice-coffee-400-ml-2677888.jpg?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            11992
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Set de Vasos Ice Coffee</strong></p>
+<p data-end="118" data-start="29">Nuevos vasos de vidrio para disfrutar tus preparaciones frías con una estética única.</p>
+<p data-end="208" data-start="120">No te quedes atrás y vive una nueva experiencia al disfrutar tu iced coffee o cold brew.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="247" data-start="210">Incluye set de 4 vasos de vidrio.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104256397594</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">11992</s:price>
+      <s:sku>ATAZ1135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104256299290</id>
+    <published>2026-01-22T10:18:34-03:00</published>
+    <updated>2026-01-22T10:18:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-de-4-bombillas"/>
+    <title>Set De 4 Bombillas</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-de-4-bombillas-8468679.jpg?v=1778077329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3992
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bombilla de acrilico para Ice Coffee</strong></p>
+<p data-start="26" data-end="247">Disfruta tu iced coffee con estilo. Los detalles sí importan, por eso hemos traído para ti un set de 4 bombillas de distintos colores, pensadas para disfrutar con estilo todas tus preparaciones de café, tanto heladas como calientes.</p>
+<p data-start="249" data-end="303">Set de 4 bombillas de acrílico con limpiador incluido.</p>
+<p data-start="305" data-end="323" data-is-last-node="" data-is-only-node=""><strong>Drink Ice Coffee</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104256299290</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3992</s:price>
+      <s:sku>AOTR1134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10094685094170</id>
+    <published>2026-01-13T09:28:18-03:00</published>
+    <updated>2026-01-13T09:28:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/twelve-pack-nitro-cold-brew"/>
+    <title>Twelve Pack Nitro Cold Brew</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/twelve-pack-nitro-cold-brew-6133680.png?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            32292
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack 12 Latas De Nitro Cold Brew </strong></p>
+<p data-start="58" data-end="171">Este verano no puede faltar el Cold Brew en tu refrigerador. Lleva 12 latas a un valor preferencial.</p>
+<p data-start="178" data-end="215">Una oportunidad solo para entendidos.</p>
+<p><strong>Drink Good Cold Brew</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10094685094170</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">32292</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10093681049882</id>
+    <published>2026-01-13T09:17:27-03:00</published>
+    <updated>2026-01-13T09:17:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/six-pack-nitro-cold-brew"/>
+    <title>Six Pack Nitro Cold Brew</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/six-pack-nitro-cold-brew-4239823.png?v=1778077328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            17043
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="91" data-end="124"><strong data-start="91" data-end="124">Seis Latas de Nitro Cold Brew</strong></p>
+<p data-start="126" data-end="242">El six pack que te debe acompañar todo el verano, seis latas para refrescarte y energizarte en todo momento.</p>
+<p data-start="244" data-end="307">Tómalas solas, con tónica, leche o gin. Tú escoges.</p>
+<p data-start="309" data-end="333"><strong data-start="309" data-end="333">Drink Good Cold Brew</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10093681049882</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">17043</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10090507075866</id>
+    <published>2026-01-07T15:56:09-03:00</published>
+    <updated>2026-01-07T15:56:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cold-brew-grano-molido"/>
+    <title>Café Cold Brew</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-cold-brew-6604584.png?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            11691
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nuevo Blend Cold Brew // 2026</strong></p>
+<p>Un blend creado para ser extraído en frío y resaltar lo mejor del café helado. Su combinación de cafés etíopes y brasileños da como resultado un café de intenso sabor achocolatado, frutal y acompañado de matices dulces que logran un balance único, ideal para disfrutar durante la temporada de verano. Este café presenta una gran sinergia con leche y tónica, permitiendo la creación de nuevas y refrescantes recetas.</p>
+<p data-start="299" data-end="588" data-is-last-node="" data-is-only-node=""><strong>Caracteristicas: </strong></p>
+<ul>
+<li data-start="299" data-end="588">227 gramos</li>
+<li data-start="299" data-end="588">Single Origin Etiopia Natural &amp; Single Origin Brasil Honey</li>
+</ul>
+<p><strong>Preparacion recomendada:</strong></p>
+<ol>
+<li>Ratio 1:10</li>
+<li>Molienda gruesa </li>
+<li>Extraccion de 22 horas a menos de 15°</li>
+</ol>
+<p><strong>Un Cold Brew imperdible este verano.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10090507075866</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">11691</s:price>
+      <s:sku>CGRA2116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10065572921626</id>
+    <published>2025-12-18T22:10:53-03:00</published>
+    <updated>2025-12-18T22:10:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-350-ml"/>
+    <title>Prensa Francesa Doble Vidrio 350 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-350-ml-8548340.png?v=1778077334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            17091
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="542" data-start="128"><strong data-end="194" data-start="128">Prensa Francesa de Vidrio Doble Pared 350 ml </strong></p>
+<p data-end="542" data-start="128"><br data-end="197" data-start="194">Diseñada para los amantes del café de especialidad, esta prensa francesa combina elegancia, funcionalidad y una experiencia de extracción superior. Su cuerpo de vidrio de borosilicato de doble pared mantiene la temperatura ideal por más tiempo, sin quemar tus manos, mientras que su acabado cromado le aporta un estilo moderno y sofisticado.</p>
+<p data-end="718" data-start="544">Perfecta para preparar una taza limpia, con cuerpo y con todo el carácter del grano, esta prensa de 350 ml es ideal para rituales personales o momentos de pausa consciente.</p>
+<p data-end="789" data-start="722">Precisión, diseño y café de verdad. Así comienza tu mejor taza.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10065572921626</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">17091</s:price>
+      <s:sku>ACAF1121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10054250692890</id>
+    <published>2025-11-20T09:09:33-03:00</published>
+    <updated>2025-11-20T09:09:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-doble-ceramica-230-ml-blanca"/>
+    <title>Taza Cerámica Cappuccino 230 ML Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-ceramica-cappuccino-230-ml-blanco-6467936.png?v=1778077333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            8792
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nueva taza de cerámica de doble pared, color blanco. Exclusivo acabado, ideal para preparaciones a base de leche.</p>
+<p>Capacidad 230ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10054250692890</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">8792</s:price>
+      <s:sku>ATAZ1129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9925434638618</id>
+    <published>2025-06-25T12:55:26-04:00</published>
+    <updated>2025-06-25T12:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-600-ml"/>
+    <title>Prensa Francesa Doble Vidrio 600 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-600-ml-2879337.png?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19791
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="583" data-start="162"><strong data-end="228" data-start="162">Prensa Francesa de Vidrio Doble Pared 600 ml –</strong></p>
+<p data-end="583" data-start="162"><br data-end="231" data-start="228">Ideal para compartir o para quienes disfrutan más de una sola taza, esta prensa francesa de 600 ml fue creada para elevar tu experiencia cafetera con estilo y funcionalidad. Su estructura de vidrio de borosilicato de doble pared conserva el calor de forma eficiente, mientras su diseño cromado aporta un toque moderno y sofisticado a tu rutina.</p>
+<p data-end="768" data-start="585">Diseñada pensando en el café de especialidad, permite extraer con precisión todo el cuerpo, los aceites y matices del grano, entregando una infusión limpia, profunda y con carácter.</p>
+<p data-end="837" data-start="770">Para rituales compartidos o grandes momentos contigo y tu café.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9925434638618</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19791</s:price>
+      <s:sku>ACAF1103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9621927723290</id>
+    <published>2024-11-07T11:24:08-03:00</published>
+    <updated>2024-11-07T11:24:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-las-lajas-kennia-100-grs"/>
+    <title>Café de Costa Rica Las Lajas SL-28</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-de-costa-rica-las-lajas-sl-28-7052218.png?v=1778077510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            14392
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de especialidad Costa Rica Las Lajas SL-28</strong></p>
+<p>Estamos felices de presentarles la nueva cosecha de Costa Rica, Las Lajas, un nuevo microlote de proceso anaeróbico de la variedad SL-28. Sumérgete en la complejidad de este microlote proveniente del beneficio Las Lajas en Costa Rica, caracterizado por sus dulces notas de amaretto y nib de cacao.</p>
+<p>Un destino que se ha echo recurrente en <strong>Black</strong>drop, el favorito de muchos,</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100 gramos</s:tag>
+    <s:tag>black series</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE COSTA RICA</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>costa rica</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621927723290</id>
+      <title>100 GRAMOS / GRANO</title>
+      <s:price currency="CLP">14392</s:price>
+      <s:sku>CGRA2081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750242586</id>
+    <published>2023-11-20T18:26:01-03:00</published>
+    <updated>2023-11-20T18:26:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-vidrio-80-ml-espresso"/>
+    <title>Set 2 Tazas Espresso 80 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-espresso-80-ml-1641856.jpg?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            9592
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas de vidrio doble pared 80ml.</p>
+<p>Perfectas para espresso.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>accesorios yuju</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:tag>vidrio</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750242586</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">9592</s:price>
+      <s:sku>ATAZ1025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831748014362</id>
+    <published>2023-11-20T18:25:25-03:00</published>
+    <updated>2023-11-20T18:25:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-moka-italiana-6tazas-negra"/>
+    <title>Cafetera Moka Italiana 400ml roja DHPO</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-400ml-roja-dhpo-4249926.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            44994
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Moderna cafetera Moka Italiana roja</strong></p>
+<p data-start="129" data-end="288">Esta elegante cafetera Italiana cuenta con un acabado negro cromado y un mango de madera, brindándole un diseño único para preparar un exquisito café de grano molido.</p>
+<p data-start="290" data-end="375">La estructura compacta de la cafetera y su capacidad de 400 ml la hacen ideal para cualquier espacio.</p>
+<p data-start="377" data-end="457">Sin duda, añadirá un toque distintivo tanto a tu preparación como al ambiente.</p>
+<p data-start="459" data-end="519">¡Descubre la experiencia de esta innovadora cafetera moka!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafeteras</s:tag>
+    <s:tag>moka</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831748014362</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">44994</s:price>
+      <s:sku>ACAF1070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

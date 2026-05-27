@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/mokas.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-07-23T12:15:55-04:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/9953903018266</id>
+    <published>2025-07-23T12:15:55-04:00</published>
+    <updated>2025-07-23T12:15:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/moka-6-cups-negra-plata"/>
+    <title>Cafetera Moka Italiana 6 tazas Plata</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-6-tazas-plata-3530681.png?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cafetera Moka Italiana Plata</strong></p>
+<p>Descubre la elegancia y funcionalidad de nuestra <strong>moka italiana Blackdrop</strong>, fabricada con un acabado único <strong>mitad acero inoxidable y mitad cobre</strong>. Esta cafetera combina la resistencia del metal con el toque cálido y sofisticado del cobre, aportando estilo a tu cocina.</p>
+<p>Con capacidad para 6 tazas, es ideal para los amantes de la Italiana logrando una taza de café balceada e intensa. Su diseño ergonómico incluye una cómoda asa resistente al calor y una válvula de seguridad para un uso seguro.</p>
+<p>Compatible con cocinas de gas, eléctricas y de vitrocerámica.</p>
+<p>No te pierdas esta gran cafetera Italiana que combina estética y durabilidad</p>
+<p>Perfecta para regalar o para elevar tu experiencia cafetera diaria.</p>
+<p>Capacidad 6 tazas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>moka</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9953903018266</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>ACAF1095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9953902690586</id>
+    <published>2025-07-23T12:15:20-04:00</published>
+    <updated>2025-07-23T12:15:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/moka-2-cups-negra-plata"/>
+    <title>Cafetera Moka Italiana 2 tazas Plata</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-2-tazas-plata-3656926.png?v=1778077389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            20990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cafetera Moka Italiana Plata</strong></p>
+<p>Descubre la elegancia y funcionalidad de nuestra <strong>moka italiana Blackdrop</strong>, fabricada con un acabado único <strong>mitad acero inoxidable y mitad cobre</strong>. Esta cafetera combina la resistencia del metal con el toque cálido y sofisticado del cobre, aportando estilo a tu cocina.</p>
+<p>Con capacidad para 2 tazas, es ideal para los amantes de la Italiana logrando una taza de café balceada e intensa. Su diseño ergonómico incluye una cómoda asa resistente al calor y una válvula de seguridad para un uso seguro.</p>
+<p>Compatible con cocinas de gas, eléctricas y de vitrocerámica.</p>
+<p>No te pierdas esta gran cafetera Italiana que combina estética y durabilidad</p>
+<p>Perfecta para regalar o para elevar tu experiencia cafetera diaria.</p>
+<p>Capacidad 2 tazas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>moka</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9953902690586</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">20990</s:price>
+      <s:sku>ACAF1094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831748014362</id>
+    <published>2023-11-20T18:25:25-03:00</published>
+    <updated>2023-11-20T18:25:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-moka-italiana-6tazas-negra"/>
+    <title>Cafetera Moka Italiana 400ml roja DHPO</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-moka-italiana-400ml-roja-dhpo-4249926.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            44994
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Moderna cafetera Moka Italiana roja</strong></p>
+<p data-start="129" data-end="288">Esta elegante cafetera Italiana cuenta con un acabado negro cromado y un mango de madera, brindándole un diseño único para preparar un exquisito café de grano molido.</p>
+<p data-start="290" data-end="375">La estructura compacta de la cafetera y su capacidad de 400 ml la hacen ideal para cualquier espacio.</p>
+<p data-start="377" data-end="457">Sin duda, añadirá un toque distintivo tanto a tu preparación como al ambiente.</p>
+<p data-start="459" data-end="519">¡Descubre la experiencia de esta innovadora cafetera moka!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafeteras</s:tag>
+    <s:tag>moka</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831748014362</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">44994</s:price>
+      <s:sku>ACAF1070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

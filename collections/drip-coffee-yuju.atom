@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/drip-coffee-yuju.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2024-12-03T10:38:49-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/9619674202394</id>
+    <published>2024-12-03T10:38:49-03:00</published>
+    <updated>2024-12-03T10:38:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-brasil-5-drip"/>
+    <title>Caja 5 Drip Coffee Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-brasil-2293705.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café de grano listo para servir.</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Este café Single Origin Brasil, de tueste medio/alto, presenta un perfil achocolatado propio de los cafés de Brasil, junto con una acidez baja y un final dulce. Disfrútalo solo o mézclalo con leche.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>BRASIL</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:tag>origen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9619674202394</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250525978</id>
+    <published>2023-11-29T16:27:21-03:00</published>
+    <updated>2023-11-29T16:27:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-siena"/>
+    <title>Caja 5 Drip Coffee Siena</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-siena-5113675.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café fresco listo para servir.</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Siena es un blend con un sabor achocolatado, con notas de caramelo, uvas deshidratadas, y una acidez equilibrada. Este café de grano molido contrasta a la perfección con la leche, ideal para preparar lattes o el que tu quieras.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250525978</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250427674</id>
+    <published>2023-11-29T16:27:20-03:00</published>
+    <updated>2023-11-29T16:27:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-etiopia"/>
+    <title>Caja 5 Drip Coffee Etiopia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-etiopia-4250684.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café fresco para llevar</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Este café de origen de Etiopía, con tueste medio, logra un café balanceado entre acidez, dulzor y amargor. Sus notas frutales, junto con toques florales y una acidez media, permiten disfrutar de un café de grano con un sabor fresco y novedoso. </p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>Dia de la madre</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:tag>ETIOPIA</s:tag>
+    <s:tag>origen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250427674</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250329370</id>
+    <published>2023-11-29T16:27:18-03:00</published>
+    <updated>2023-11-29T16:27:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-colombia"/>
+    <title>Caja 5 Drip Coffee Colombia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-colombia-5684384.png?v=1778077510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Drip coffee, café de grano molido en todos lados.</h4>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Este café de origen 100% Colombia, de tueste medio, te brindará el placer de disfrutar un auténtico café colombiano, con notas afrutadas, toques achocolatados, acidez media y un cuerpo ligero.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:tag>origen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250329370</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250263834</id>
+    <published>2023-11-29T16:27:16-03:00</published>
+    <updated>2023-11-29T16:27:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-black-diamond"/>
+    <title>Caja 5 Drip Coffee Black Diamond</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-black-diamond-6583487.png?v=1778077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Drip coffee, café de especialidad en todos lados.</h4>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Black Diamond es un blend que te permite extraer una taza de gran carácter, con intensas notas tostadas a chocolate amargo, pimienta y frutos secos, con una acidez baja y un gran cuerpo. Este drip coffee combina a la perfección con tus preparaciones con leche.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Atrévete.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>DRIP COFFEE</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250263834</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

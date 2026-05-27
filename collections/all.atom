@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/all.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-05-15T10:59:31-04:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10197203026202</id>
+    <published>2026-05-15T10:59:31-04:00</published>
+    <updated>2026-05-15T10:59:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-negra-plastic-130-ml"/>
+    <title>Taza Block 130 ML Negra</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-block-130-ml-negra-9047246.webp?v=1778919308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Taza Cerámica Block · 130 ml</strong></p>
+<p>Vanguardia y diseño conceptual definen este modelo: cerámica negra de alta densidad, una composición que equilibra peso, forma y silencio.</p>
+<p>Para quienes entienden que el ritual del café comienza en el objeto que lo contiene.</p>
+<p>Perfecta para tu espresso doble, americano o cortado.</p>
+<p>Capacidad: 130 ml</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nuevo</s:tag>
+    <s:tag>taza</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197203026202</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>ATAZ1141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10197052260634</id>
+    <published>2026-05-15T10:58:36-04:00</published>
+    <updated>2026-05-15T10:58:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-minimal-300-ml"/>
+    <title>Set 2 tazas Minimal 300 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-minimal-300-ml-1231377.webp?v=1778919308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            9990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taza Minimal · Vidrio · 300 ml</p>
+<p>Diseñada para no interrumpir. La taza Minimal en vidrio transparente pone en primer plano lo único que importa: el café.</p>
+<p>Sus terminaciones depuradas se integran con naturalidad a cualquier set, sin competir con él.<br></p>
+<p>Set de dos tazas · 300 ml c/u</p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:tag>vidrio</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197052260634</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">9990</s:price>
+      <s:sku>ATAZ1140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10222804828442</id>
+    <published>2026-05-08T12:57:13-04:00</published>
+    <updated>2026-05-08T12:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/vaso-polipapel-negro-4-oz-china"/>
+    <title>VASO POLIPAPEL NEGRO 4 OZ CHINA</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            0
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10222804828442</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">0</s:price>
+      <s:sku>OVAS7009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10222777631002</id>
+    <published>2026-05-08T12:45:39-04:00</published>
+    <updated>2026-05-08T12:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/tapa-vaso-rigido-pp-12-oz-china"/>
+    <title>TAPA VASO RIGIDO PP 12 OZ CHINA</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            208
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10222777631002</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">208</s:price>
+      <s:sku>OTAP7030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10222768947482</id>
+    <published>2026-05-08T12:41:52-04:00</published>
+    <updated>2026-05-08T12:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/vaso-rigido-pp-12-oz-china"/>
+    <title>VASO RIGIDO PP 12 OZ CHINA</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10222768947482</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">71</s:price>
+      <s:sku>OVAS7029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10200606998810</id>
+    <published>2026-04-23T20:03:51-04:00</published>
+    <updated>2026-04-23T20:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-16-drips-rectangular-ddm"/>
+    <title>Pack 16 Drip Coffee A Daily Pause</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-16-drip-coffee-a-daily-pause-9877708.webp?v=1778077148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Pack 16 Drip Coffee A Daily Pause — Día de la Madre</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Regálale a mamá una pausa que se merece. Esta elegante caja de diseño experiencial reúne 16 drip coffees de destacados orígenes únicos, una invitación a descubrir perfiles de sabor extraordinarios: cítricos, dulces y achocolatados.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Porque cada taza es un momento solo para ella. Su práctico formato drip permite prepararlo en cualquier lugar, solo necesitas agua caliente.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Incluye:</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Colombia</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Siena</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Etiopía</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Evolve</li>
+<li class="whitespace-normal break-words pl-2">4 Drip Coffee Origen Brasil</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Drink Good Coffee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10200606998810</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>RDRI3108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10200607293722</id>
+    <published>2026-04-23T08:31:14-04:00</published>
+    <updated>2026-04-23T08:31:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-taza-7-drip-ddm"/>
+    <title>Pack Drip Coffee &amp; Taza Geometrica A Daily Pause</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-drip-coffee-taza-geometrica-a-daily-pause-7117390.webp?v=1778077148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Pack Drip Coffee &amp; Taza Geometrica A Daily Pause — Día de la Madre</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Celebra a mamá con un regalo tan especial como ella. Esta caja de diseño vanguardista combina elegancia y sabor en un solo presente, perfecto para sorprender en su día.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Con un innovador interior de dos niveles: en el primero, una taza geométrica de doble vidrio de 250 ml; en el segundo, siete drips de café de origen único, seleccionados para regalar una experiencia sensorial inolvidable.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Incluye:</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">2 Drip Coffee Colombia</li>
+<li class="whitespace-normal break-words pl-2">2 Drip Coffee Siena</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Evolve</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Etiopía</li>
+<li class="whitespace-normal break-words pl-2">1 Drip Coffee Brasil</li>
+<li class="whitespace-normal break-words pl-2">1 Taza 250ml Geométrica Doble Vidrio</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Porque mamá se merece el mejor café del mundo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos packs</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10200607293722</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>RPAC3120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10197006123290</id>
+    <published>2026-04-16T09:45:07-04:00</published>
+    <updated>2026-04-16T09:45:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-origen-peru"/>
+    <title>Café Origen Perú</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-peru-5120453.png?v=1778077130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-origen-peru">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Café de Perú, Single Origin Pangoa.</p>
+<p>Perú es un <strong>Single Origin</strong> excepcional para los entendidos del café, reconocido por ofrecer un perfil único y diferenciado. En esta ocasión presentamos un café proveniente de la región de Pangoa, célebre por la calidad de sus granos.</p>
+<p>Se trata de un café versátil, ideal tanto para espresso como para métodos filtrados, que se distingue por sus notas achocolatadas y especiadas, una acidez media-baja y un cuerpo cremoso de gran estructura.</p>
+<p>Ahora te toca a ti revelar todo el potencial de este grano que hemos traido para ti.</p>
+<p>Cosecha 2025.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cafe</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197006123290</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197006123290</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197006123290</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10197006123290</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10196562379034</id>
+    <published>2026-04-15T13:45:16-04:00</published>
+    <updated>2026-04-15T13:45:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/bolsa-de-compra-m-2026"/>
+    <title>BOLSA DE COMPRA M 2026</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            1
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10196562379034</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">1</s:price>
+      <s:sku>OBOL7031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10196562051354</id>
+    <published>2026-04-15T13:44:01-04:00</published>
+    <updated>2026-04-15T13:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/bolsa-de-compra-s-2026"/>
+    <title>BOLSA DE COMPRA S 2026</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            1
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10196562051354</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">1</s:price>
+      <s:sku>OBOL7032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10183607976218</id>
+    <published>2026-04-14T21:10:04-04:00</published>
+    <updated>2026-04-14T21:10:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-10-drip-best-seller-2026"/>
+    <title>Caja 10 Drip Coffee Best Seller</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-10-drip-coffee-best-seller-4020547.jpg?v=1778077149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>El Pack 10 Drip Best Sellers</strong> te invita a explorar una amplia variedad de sabores, llevándote a vivir una experiencia única con cada sorbo.</p>
+<p>El drip coffee es un método innovador y divertido para preparar café de forma fácil y práctica: solo necesitas agua. Cada sobre contiene 10 gramos de café tostado y molido, perfecto para disfrutar en cualquier lugar al que vayas. ¡Lleva contigo el sabor de la aventura!</p>
+<p><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Contiene:<br></strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">2 drip coffee origen Brasil<br></span>2 drip coffee blend Black Diamond<br>2 drip coffee blend Siena<br>2 drip coffee origen Etiopía<br>2 drip coffee origen Colombia</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 drip</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>Formato_Drip</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10183607976218</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>RDRI3123</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8881787502874</id>
+    <published>2026-03-25T09:23:03-03:00</published>
+    <updated>2026-03-25T09:23:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/aeropress-clasica"/>
+    <title>Aeropress Clasica</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/aeropress-clasica-2262589.webp?v=1778077508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            46590
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span mce-data-marked="1" data-mce-fragment="1">El Aeropress es un novedoso y versatil metodo para preparar café filtrado el cual nos entrega distintos matices de sabores de los clasicos metodos. <span data-mce-fragment="1">Su sistema único lo hace excelente para viajes y paseos al aire libre. Sumado a la diversión de su preparación, se convierte en un método de vanguardia hoy en día entre los amantes del café de especialidad.</span></span></p>
+<p data-mce-fragment="1">¿QUÉ HACE QUE LA EXPERIENCIA CON LA CAFETERA AEROPRESS SEA TAN EXCEPCIONAL?</p>
+<p data-mce-fragment="1"><strong>Extraccion 3 en 1: </strong>Una combinación perfecta de inmersión, aireación y presión se traduce en un sabor excepcionalmente delicioso y en una versatilidad única. La preparación 3 en 1 te permite disfrutar de café americano, cold brew, espresso y lattes.</p>
+<p data-mce-fragment="1"><strong>Rapida inmersion</strong>: La inmersión rápida es clave para nuestro diseño. A diferencia de otras prensas que carecen de filtración, la nuestra incorpora este elemento esencial. Esto te permite utilizar café molido más fino, logrando una infusión más rápida que resulta en menos acidez, sin amargura y sin residuos arenosos.</p>
+<p data-mce-fragment="1"><strong>Presión del aire: </strong>El<strong> </strong>exclusivo sistema de presión de aire utiliza una técnica suave de inmersión para impulsar el agua a través de los granos, aireando y extrayendo solo los sabores más puros y frescos. El resultado es una taza de café con un cuerpo y un acabado que normalmente son difíciles de encontrar en otras preparaciones. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8881787502874</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">46590</s:price>
+      <s:sku>ACAF1073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9979844526362</id>
+    <published>2026-03-21T13:17:23-03:00</published>
+    <updated>2026-03-21T13:17:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/tarro-almacenamiento-negro"/>
+    <title>Contenedor De Café Vacuum Negro 500g</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/contenedor-de-cafe-vacuum-negro-500g-9668548.webp?v=1778077338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-start="164" data-end="232">Canister de Café de Acero Inoxidable con Sistema de Vacio – 500 g</h3>
+<p data-start="233" data-end="516">Mantén la frescura de tu café por más tiempo con nuestro canister premium de acero inoxidable. Diseñado con un sistema de vacío (Vacuum) que extrae el oxígeno del interior, protege tus granos o café molido de la humedad, la luz y el aire, principales enemigos de la calidad.</p>
+<p data-start="518" data-end="853">Con una capacidad de hasta 500 gramos, es el complemento ideal para conservar tu café de especialidad en perfectas condiciones, preservando su aroma y sabor original. Su estructura en acero inoxidable lo hace resistente, elegante y fácil de limpiar, convirtiéndolo en una pieza duradera y estética para tu cocina o barra de café.</p>
+<p data-start="855" data-end="998">Perfecto para cafeterías, oficinas o en casa, este canister no solo es funcional, también aporta diseño y practicidad a tu ritual diario.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>para ellos</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:tag>Tarro</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9979844526362</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>APRE1111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250296602</id>
+    <published>2026-03-13T09:25:29-03:00</published>
+    <updated>2026-03-13T09:25:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-intensos-caja-50-u"/>
+    <title>Caja 50 Cápsulas de Café Dark roast</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dark-roast-2429441.webp?v=1778077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="153"><strong>Pack de 50 cápsulas de café compatibles con cafeteras Nespresso</strong>, con una selección de sabores intensos y cremosos, en un práctico y reciclable formato.</p>
+<p data-start="155" data-end="193" data-is-last-node="">Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>20 Cápsulas de café Ignite - Intensidad 13</li>
+<li>15 Cásulas de café Terralungo - Intensidad 10</li>
+<li>15 Cápsulas de café Blackbird - Intensidad 12</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250296602</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10125299613978</id>
+    <published>2026-03-05T10:14:33-03:00</published>
+    <updated>2026-03-05T10:14:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-nova-150-ml-ambar"/>
+    <title>Set 2 Tazas 150 Ml Nova Amber</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-150-ml-nova-amber-2795989.jpg?v=1778077327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas doble vidrio modelo Nova para café.</p>
+<p>Innovador diseño ambar para preparar tu café con un estilo sin precedentes.</p>
+<p>Capacidad 150 ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10125299613978</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>ATAZ1136</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10125306134810</id>
+    <published>2026-03-05T10:13:25-03:00</published>
+    <updated>2026-03-05T10:13:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-nova-250-ml-ambar"/>
+    <title>Taza Nova 250 Ml Amber</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-nova-250-ml-amber-9079811.png?v=1778077327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            7990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taza doble vidrio modelo Nova.</p>
+<p>Innovador diseño Ambar para preparar tu café con un estilo sin precedentes.</p>
+<p>Capacidad 250 ml.</p>
+<p>*Viene solo 1 taza</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10125306134810</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">7990</s:price>
+      <s:sku>ATAZ1138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10125299843354</id>
+    <published>2026-03-05T10:12:12-03:00</published>
+    <updated>2026-03-05T10:12:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-nova-150-ml-smoke"/>
+    <title>Set 2 Tazas 150 Ml Nova Smoke</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-150-ml-nova-smoke-7209588.jpg?v=1778077328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas doble vidrio modelo Nova para café.</p>
+<p>Innovador diseño smoke para preparar tu café con un estilo sin precedentes.</p>
+<p>Capacidad 150 ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10125299843354</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>ATAZ1137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10125306757402</id>
+    <published>2026-03-05T10:11:25-03:00</published>
+    <updated>2026-03-05T10:11:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-nova-250-ml-smoke"/>
+    <title>Taza Nova 250 Ml Smoke</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-nova-250-ml-smoke-4154055.png?v=1778077128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            7990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taza doble vidrio modelo Nova.</p>
+<p>Innovador diseño smoke para preparar tu café con un estilo sin precedentes.</p>
+<p>Capacidad 250 ml.</p>
+<p>*Viene solo 1 taza</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10125306757402</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">7990</s:price>
+      <s:sku>ATAZ1139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10010801832218</id>
+    <published>2026-03-04T17:19:33-03:00</published>
+    <updated>2026-03-04T17:19:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/travel-prensa-negro"/>
+    <title>Prensa Francesa Portatil Negro 450 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-negro-450-ml-8646535.png?v=1778077337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Portátil. Excepcional.</p>
+<p>Redefine tu café de cada día con nuestra prensa francesa integrada en un mug de viaje. Creada para quienes valoran el sabor auténtico y el diseño inteligente. Prepara, transporta y disfruta, todo en un mismo lugar.</p>
+<p><b>Especificaciones:</b></p>
+<ul>
+<li>
+<p><b>Función:</b> Cafetera Prensa Francesa + Termo.</p>
+</li>
+<li>
+<p><b>Material:</b> Acero Inoxidable de Doble Pared (Sin BPA).</p>
+</li>
+<li>
+<p><b>Rendimiento Térmico:</b> Hasta 8 horas de calor.</p>
+</li>
+<li>
+<p><b>Capacidad:</b> 450 ml.</p>
+</li>
+<li>
+<p><b>Compatibilidad:</b> Se ajusta a portavasos estándar.</p>
+</li>
+<li>
+<p><b>Cuidado:</b> No apto para lavavajillas. No apto para microondas.</p>
+</li>
+</ul>
+<p><b>Proceso en 4 minutos:</b></p>
+<ol start="1">
+<li>
+<p>Añade café molido.</p>
+</li>
+<li>
+<p>Vierte agua caliente (hasta 90 °C).</p>
+</li>
+<li>
+<p>Infusiona por 4 minutos.</p>
+</li>
+<li>
+<p>Presiona el émbolo.</p>
+</li>
+</ol>
+<p><b>Nota:</b> El producto no es hermético por diseño de seguridad, para prevenir sobrepresión. Mantener en vertical.</p>
+<p>Diámetro: 6,5 cm </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10010801832218</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>AMUG1115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10154897801498</id>
+    <published>2026-03-04T17:03:20-03:00</published>
+    <updated>2026-03-04T17:03:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-portatil-rojo-450-ml"/>
+    <title>Prensa Francesa Portatil Rojo 450 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-rojo-450-ml-8179818.jpg?v=1778077130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Portátil. Excepcional.</p>
+<p>Redefine tu café de cada día con nuestra prensa francesa integrada en un mug de viaje. Creada para quienes valoran el sabor auténtico y el diseño inteligente. Prepara, transporta y disfruta, todo en un mismo lugar.</p>
+<p><b>Especificaciones:</b></p>
+<ul>
+<li>
+<p><b>Función:</b> Cafetera Prensa Francesa + Termo.</p>
+</li>
+<li>
+<p><b>Material:</b> Acero Inoxidable de Doble Pared (Sin BPA).</p>
+</li>
+<li>
+<p><b>Rendimiento Térmico:</b> Hasta 8 horas de calor.</p>
+</li>
+<li>
+<p><b>Capacidad:</b> 450 ml.</p>
+</li>
+<li>
+<p><b>Compatibilidad:</b> Se ajusta a portavasos estándar.</p>
+</li>
+<li>
+<p><b>Cuidado:</b> No apto para lavavajillas. No apto para microondas.</p>
+</li>
+</ul>
+<p><b>Proceso en 4 minutos:</b></p>
+<ol start="1">
+<li>
+<p>Añade café molido.</p>
+</li>
+<li>
+<p>Vierte agua caliente (hasta 90 °C).</p>
+</li>
+<li>
+<p>Infusiona por 4 minutos.</p>
+</li>
+<li>
+<p>Presiona el émbolo.</p>
+</li>
+</ol>
+<p><b>Nota:</b> El producto no es hermético por diseño de seguridad, para prevenir sobrepresión. Mantener en vertical.</p>
+<p>Diámetro: 6,5 cm </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10154897801498</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>AMUG1142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9621912912154</id>
+    <published>2026-03-02T09:31:40-03:00</published>
+    <updated>2026-03-02T09:31:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-honduras-fundacion-227-grs"/>
+    <title>Café de Honduras Proyecto Jovenes Lideres</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-de-honduras-proyecto-jovenes-lideres-5079176.png?v=1778077513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/caja-honduras-fundacion-227-grs">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Honduras proyecto Pioneros Climaticos</strong></p>
+<p>Estamos felices de presentarte un café cargado de valor y pasión. Este café de origen Honduras es producido por los jóvenes participantes del proyecto social llamado <strong>"Juventudes Pioneras Climáticas"</strong>, gestionado por la Fundación Hanns R. Neumann Stiftung y apoyado por Blackdrop coffee. Este proyecto se lleva a cabo en Honduras, en la región de Ocotepeque, especificamente en la comunidad de Las Lajitas, donde se empodera de manera directa a las nuevas generaciones de productores para adoptar prácticas resilientes frente al cambio climático. </p>
+<p>Disfruta este gran y versatil café en metodos de filtrado y espresso.</p>
+<p><strong>Un café con futuro.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>Dia de la madre</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9621912912154</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250394906</id>
+    <published>2026-02-28T11:06:31-03:00</published>
+    <updated>2026-02-28T11:06:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-caja-50"/>
+    <title>Caja 50 Cápsulas de Café Dropmix</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dropmix-9889632.png?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de 50 cápsulas de café en aluminio compatible con cafeteras nespresso.</strong></p>
+<p>Prueba nuestros unicos blends creados por Blackdrop y dos de nuestros favoritos single origin. Distintos perfiles de sabores y tuestes para todo tipo de momentos.</p>
+<p>Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>10 cápsulas de blend Ignite - Intensidad 13</li>
+<li>10 cápsulas de b<span>lend C</span>onnections - Intensidad 8</li>
+<li>10 cápsulas de b<span>lend B</span>alance - Intensidad 9</li>
+<li>10 cápsulas de<span> </span>origen<span> Colombia</span> - Intensidad 7</li>
+<li>10 cápsulas de origen Brasil - Intensidad 9</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250394906</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2074</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10143482478874</id>
+    <published>2026-02-25T11:48:54-03:00</published>
+    <updated>2026-02-25T11:48:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-blanca-plastic-190-ml"/>
+    <title>Taza Block 190 ML Blanca</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-block-190-ml-blanca-5455361.jpg?v=1778077129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="36"><strong data-start="0" data-end="36">Taza Block Doble Cerámica 190 ml</strong></p>
+<p data-start="38" data-end="223">Te presentamos nuestro último diseño en tazas de cerámica, <strong data-start="97" data-end="111">Taza Block</strong>, un modelo vanguardista de doble cerámica con base de acero, creado para seguir innovando en tu ritual de café.</p>
+<p data-start="225" data-end="242">Capacidad: 190 ml</p>
+<p data-start="225" data-end="242">Color: Blanco</p>
+<p data-start="225" data-end="242">Drink Good Coffee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10143482478874</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>ATAZ1133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10143482216730</id>
+    <published>2026-02-25T11:48:40-03:00</published>
+    <updated>2026-02-25T11:48:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/taza-negra-plastic-190-ml"/>
+    <title>Taza Block 190 ML Negra</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/taza-block-190-ml-negra-2909664.jpg?v=1778077129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="36"><strong data-start="0" data-end="36">Taza Block Doble Cerámica 190 ml</strong></p>
+<p data-start="38" data-end="223">Te presentamos nuestro último diseño en tazas de cerámica: <strong data-start="97" data-end="111">Taza Block</strong>, un modelo vanguardista de doble cerámica con base de acero, creado para seguir innovando en tu ritual de café.</p>
+<p data-start="225" data-end="242">Capacidad: 190 ml</p>
+<p data-start="225" data-end="242">Color: Negro</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10143482216730</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>ATAZ1132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10108301771034</id>
+    <published>2026-02-09T15:31:22-03:00</published>
+    <updated>2026-02-09T15:31:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/tumbler-negro-dibujo"/>
+    <title>Tumbler Negro Dibujo Taza</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tumbler-negro-dibujo-taza-4993622.png?v=1778077328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lleva tu café contigo a todas partes con nuestro <b>práctico y elegante termo de 350ml</b>. Disfruta de la comodidad de tener tu bebida a la temperatura perfecta durante horas, ya sea en el camino al trabajo, en tu aventura diaria o en una tarde de relax.</p>
+<p>¡Tu compañero ideal para mantenerte con Cafeína!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>para ellos</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10108301771034</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>AMUG1131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

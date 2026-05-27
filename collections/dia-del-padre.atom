@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/dia-del-padre.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-10-28T16:42:48-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750504730</id>
+    <published>2025-10-28T16:42:48-03:00</published>
+    <updated>2025-10-28T16:42:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-etiopia"/>
+    <title>Cápsulas de Café Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-etiopia-7505609.webp?v=1778077512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de origen Etiopía</strong></p>
+<p data-start="0" data-end="186">Etiopía es un origen fascinante. Proveniente de la región de Sidama, este café de especialidad es procesado mediante el método natural y secado en camas africanas, ofreciéndonos un perfil excepcionalmente frutal.</p>
+<p data-start="188" data-end="381">Con un tueste medio cuidadosamente realizado para maximizar su dulzor, este café revela un carácter distintivo que combina la vibrante frescura de los frutos rojos con sutiles notas florales y un sutil cuerpo.</p>
+<p data-start="383" data-end="408">Ideal para disfrutar en espresso.</p>
+<p data-start="410" data-end="481" data-is-last-node="">Una cápsula realmente especial, con cafés frescos y llenos de historia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750504730</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750537498</id>
+    <published>2023-12-04T17:01:02-03:00</published>
+    <updated>2023-12-04T17:01:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad"/>
+    <title>Café Origen Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-brasil-9447061.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Brazil</strong></p>
+<p data-start="0" data-end="260">Sumérgete en la experiencia de un café de especialidad de origen Brazil y de proceso natural. Su perfil cremoso, realzado por una distintiva nota achocolatada, refleja la esencia del grano brasileño. Este café es ideal para preparaciones con leche, como cappuccinos o lattes.</p>
+<p data-start="262" data-end="406" data-is-last-node="">Descubre la versatilidad de este café de especialidad, perfecto para preparar en cafeteras espresso, moka o prensa francesa. No te pierdas este viaje sensorial.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8858189889818</id>
+    <published>2023-12-04T16:55:04-03:00</published>
+    <updated>2023-12-04T16:55:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-blend-grano-siena"/>
+    <title>Café Blend Siena</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-siena-9540856.png?v=1778077513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990 - 37990
+            <a href="https://blackdrop.cl/products/cafe-blend-grano-siena">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Blend Siena</strong></p>
+<p data-start="0" data-end="385"><strong data-start="0" data-end="9">Siena</strong> es un blend de cafés de origen <strong data-start="41" data-end="62">Honduras y Brasil</strong>, inspirado en la esencia de la cultura italiana del café, que quisimos capturar en una mezcla de granos frescos y especiales. Con un tueste alto, se distingue por su gran intensidad en boca, donde las notas achocolatadas se entrelazan con matices de frutos secos, culminando en un amargor medio-alto y un cuerpo cremoso.</p>
+<p data-start="387" data-end="536">Prepáralo en <strong data-start="400" data-end="461">espresso, prensa francesa, moka o el método que prefieras</strong>. Ideal para bebidas con leche como <strong data-start="497" data-end="533">cappuccinos, lattes o macchiatos</strong>.</p>
+<p data-start="538" data-end="616" data-is-last-node=""><strong data-start="538" data-end="616" data-is-last-node="">Una verdadera narrativa en cada taza. Un café con una historia que contar.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE ALTO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CMOL2045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CGRA2021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CMOL2040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8857888653594</id>
+    <published>2023-12-04T13:30:22-03:00</published>
+    <updated>2023-12-04T13:30:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-blend-grano-evolve"/>
+    <title>Café Blend Evolve</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-evolve-2952156.png?v=1778077512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990 - 37990
+            <a href="https://blackdrop.cl/products/cafe-blend-grano-evolve">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Blend Evolve</strong></p>
+<p data-start="0" data-end="376"><strong data-start="0" data-end="10">Evolve</strong> es un blend de cafés de especialidad de origen <strong data-start="42" data-end="74">Etiopía, Colombia y Honduras</strong>, diseñado como la evolución del perfil clásico del café. Destaca por su dulzura, con delicados toques a uva y una nota principal achocolatada. Esta propuesta de blend responde a la creciente demanda de cafés de especialidad con sabores nuevos, ofreciendo un tueste medio que resalta perfiles vivos y frescos.</p>
+<p data-start="378" data-end="495" data-is-last-node="">Ideal para preparar en métodos de filtrado o espresso.</p>
+<p data-start="378" data-end="495" data-is-last-node="">Un blend único y vanguardista, un café que no puedes perderte.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CMOL2043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CGRA2019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CMOL2038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750078746</id>
+    <published>2023-11-20T18:25:58-03:00</published>
+    <updated>2023-11-20T18:25:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-connection"/>
+    <title>Cápsulas de café Connections</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-connections-7139122.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de café Connections</strong></p>
+<p data-start="37" data-end="277">Connections es un blend atípico compuesto por cafés de tres orígenes, Sudamérica, Asia y África. Diseñado para capturar la sinergia de la riqueza de sabores de cada continente, este café en cápsulas ofrece una experiencia sensorial diferente.</p>
+<p data-start="279" data-end="465">Su perfil combina las notas florales de las arábicas africanas, con el carácter amaderado y especiado del café asiático y el perfil achocolatado de Sudamérica, logrando una mezcla envolvente, cremosa y equilibrada.</p>
+<p>Prefierelo en espresso.</p>
+<p>Un café para todo momento.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750078746</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750045978</id>
+    <published>2023-11-20T18:25:57-03:00</published>
+    <updated>2023-11-20T18:25:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-blackbird"/>
+    <title>Cápsulas de café Blackbird</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-blackbird-1795057.webp?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><strong>Cápsulas de café Blackbird</strong></p>
+<p data-start="35" data-end="291">Blackbird es un blend en cápsulas de café con un carácter e intensidad excepcionalmente alto, diseñado para reinventar el concepto clásico del espresso usando cafés excepcionales e inspirado en la cultura Italiana de cafés. Este blend combina arábicas de Honduras con robustas de Vietnam, creando una experiencia única en cada taza.</p>
+<p data-start="293" data-end="479" data-is-last-node="">Su tueste alto resalta una intensidad penetrante, con una nota principal achocolatada, matices de frutos secos y un persistente retrogusto amaderado que te hará recordar el último sorbo.</p>
+<p class="p1">Prefierelo en espresso.</p>
+<p class="p1">Intensidad y cuerpo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>Cafe de India</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Intensidad Alta</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>nespresso</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750045978</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>CCAP2001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

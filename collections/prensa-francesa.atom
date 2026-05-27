@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/prensa-francesa.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-03-04T17:19:33-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10010801832218</id>
+    <published>2026-03-04T17:19:33-03:00</published>
+    <updated>2026-03-04T17:19:33-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/travel-prensa-negro"/>
+    <title>Prensa Francesa Portatil Negro 450 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-negro-450-ml-8646535.png?v=1778077337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Portátil. Excepcional.</p>
+<p>Redefine tu café de cada día con nuestra prensa francesa integrada en un mug de viaje. Creada para quienes valoran el sabor auténtico y el diseño inteligente. Prepara, transporta y disfruta, todo en un mismo lugar.</p>
+<p><b>Especificaciones:</b></p>
+<ul>
+<li>
+<p><b>Función:</b> Cafetera Prensa Francesa + Termo.</p>
+</li>
+<li>
+<p><b>Material:</b> Acero Inoxidable de Doble Pared (Sin BPA).</p>
+</li>
+<li>
+<p><b>Rendimiento Térmico:</b> Hasta 8 horas de calor.</p>
+</li>
+<li>
+<p><b>Capacidad:</b> 450 ml.</p>
+</li>
+<li>
+<p><b>Compatibilidad:</b> Se ajusta a portavasos estándar.</p>
+</li>
+<li>
+<p><b>Cuidado:</b> No apto para lavavajillas. No apto para microondas.</p>
+</li>
+</ul>
+<p><b>Proceso en 4 minutos:</b></p>
+<ol start="1">
+<li>
+<p>Añade café molido.</p>
+</li>
+<li>
+<p>Vierte agua caliente (hasta 90 °C).</p>
+</li>
+<li>
+<p>Infusiona por 4 minutos.</p>
+</li>
+<li>
+<p>Presiona el émbolo.</p>
+</li>
+</ol>
+<p><b>Nota:</b> El producto no es hermético por diseño de seguridad, para prevenir sobrepresión. Mantener en vertical.</p>
+<p>Diámetro: 6,5 cm </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10010801832218</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>AMUG1115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10154897801498</id>
+    <published>2026-03-04T17:03:20-03:00</published>
+    <updated>2026-03-04T17:03:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-portatil-rojo-450-ml"/>
+    <title>Prensa Francesa Portatil Rojo 450 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-portatil-rojo-450-ml-8179818.jpg?v=1778077130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simple. Portátil. Excepcional.</p>
+<p>Redefine tu café de cada día con nuestra prensa francesa integrada en un mug de viaje. Creada para quienes valoran el sabor auténtico y el diseño inteligente. Prepara, transporta y disfruta, todo en un mismo lugar.</p>
+<p><b>Especificaciones:</b></p>
+<ul>
+<li>
+<p><b>Función:</b> Cafetera Prensa Francesa + Termo.</p>
+</li>
+<li>
+<p><b>Material:</b> Acero Inoxidable de Doble Pared (Sin BPA).</p>
+</li>
+<li>
+<p><b>Rendimiento Térmico:</b> Hasta 8 horas de calor.</p>
+</li>
+<li>
+<p><b>Capacidad:</b> 450 ml.</p>
+</li>
+<li>
+<p><b>Compatibilidad:</b> Se ajusta a portavasos estándar.</p>
+</li>
+<li>
+<p><b>Cuidado:</b> No apto para lavavajillas. No apto para microondas.</p>
+</li>
+</ul>
+<p><b>Proceso en 4 minutos:</b></p>
+<ol start="1">
+<li>
+<p>Añade café molido.</p>
+</li>
+<li>
+<p>Vierte agua caliente (hasta 90 °C).</p>
+</li>
+<li>
+<p>Infusiona por 4 minutos.</p>
+</li>
+<li>
+<p>Presiona el émbolo.</p>
+</li>
+</ol>
+<p><b>Nota:</b> El producto no es hermético por diseño de seguridad, para prevenir sobrepresión. Mantener en vertical.</p>
+<p>Diámetro: 6,5 cm </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:tag>tumbler</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10154897801498</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>AMUG1142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10065572921626</id>
+    <published>2025-12-18T22:10:53-03:00</published>
+    <updated>2025-12-18T22:10:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-350-ml"/>
+    <title>Prensa Francesa Doble Vidrio 350 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-350-ml-8548340.png?v=1778077334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            17091
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="542" data-start="128"><strong data-end="194" data-start="128">Prensa Francesa de Vidrio Doble Pared 350 ml </strong></p>
+<p data-end="542" data-start="128"><br data-end="197" data-start="194">Diseñada para los amantes del café de especialidad, esta prensa francesa combina elegancia, funcionalidad y una experiencia de extracción superior. Su cuerpo de vidrio de borosilicato de doble pared mantiene la temperatura ideal por más tiempo, sin quemar tus manos, mientras que su acabado cromado le aporta un estilo moderno y sofisticado.</p>
+<p data-end="718" data-start="544">Perfecta para preparar una taza limpia, con cuerpo y con todo el carácter del grano, esta prensa de 350 ml es ideal para rituales personales o momentos de pausa consciente.</p>
+<p data-end="789" data-start="722">Precisión, diseño y café de verdad. Así comienza tu mejor taza.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10065572921626</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">17091</s:price>
+      <s:sku>ACAF1121</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10010780008730</id>
+    <published>2025-10-02T12:01:26-03:00</published>
+    <updated>2025-10-02T12:01:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-negro-600-ml"/>
+    <title>Prensa Francesa Doble Vidrio Smoke  600 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-smoke-600-ml-9844499.png?v=1778077338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cafetera prensa francesa doble vidrio Smoke 600 ml</strong></p>
+<p>Te presentamos nuestra nueva prensa francesa de vidrio doble pared elaborada con elegantes terminaciones para hacer la extracción de tu café única y de gran sabor.</p>
+<p>Esta cafetera prensa francesa cuenta con una capacidad de 600ml de café.</p>
+<p>Fácil de lavar y preparar, transformándola en una cafetera practica, exquisita y con estilo.</p>
+<p>Pruébala.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10010780008730</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>ACAF1120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10010779582746</id>
+    <published>2025-10-02T12:01:00-03:00</published>
+    <updated>2025-10-02T12:01:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-negro-350-ml"/>
+    <title>Prensa Francesa Doble Vidrio Smoke  350 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-smoke-350-ml-7752632.png?v=1778077338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cafetera prensa francesa doble vidrio Smoke 350 ml</strong></p>
+<p>Te presentamos nuestra nueva prensa francesa de vidrio doble pared elaborada con elegantes terminaciones para hacer la extracción de tu café única y de gran sabor.</p>
+<p>Esta cafetera prensa francesa cuenta con una capacidad de 350 ml de café.</p>
+<p>Fácil de lavar y preparar, transformándola en una cafetera practica, exquisita y con estilo.</p>
+<p>Pruébala.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10010779582746</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>ACAF1119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9954839101722</id>
+    <published>2025-07-24T13:18:10-04:00</published>
+    <updated>2025-07-24T13:18:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-negra-acero-350-ml-tapa-cobre"/>
+    <title>Prensa Francesa Negra Acero 350 ML Cobre</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-negra-acero-350-ml-cobre-3515517.png?v=1778077391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            35990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="116" data-end="613"><strong data-start="116" data-end="183">Prensa Francesa de Acero Inoxidable 350 ml – Tapa Cobre Premium</strong></p>
+<p data-start="116" data-end="613"><br data-start="183" data-end="186">Diseño elegante, materiales nobles y una experiencia a la altura del café más exigente. Esta prensa francesa de acero inoxidable de grado alimenticio con tapa color cobre es una pieza exclusiva, pensada para quienes valoran tanto el diseño como la funcionalidad. Su construcción robusta mantiene la temperatura de forma excepcional, y su formato de 350 ml la convierte en el compañero perfecto para rituales personales.</p>
+<p data-start="615" data-end="802">Su estética refinada y atemporal es solo el inicio, en cada preparación, esta prensa extrae lo mejor del café de especialidad, resaltando su cuerpo, dulzor natural y profundidad de sabor.</p>
+<p data-start="804" data-end="863"><strong>Un objeto de deseo para quienes hacen del café un arte.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9954839101722</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">35990</s:price>
+      <s:sku>ACAF1105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9925434638618</id>
+    <published>2025-06-25T12:55:26-04:00</published>
+    <updated>2025-06-25T12:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/prensa-francesa-doble-vidrio-600-ml"/>
+    <title>Prensa Francesa Doble Vidrio 600 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/prensa-francesa-doble-vidrio-600-ml-2879337.png?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            19791
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="583" data-start="162"><strong data-end="228" data-start="162">Prensa Francesa de Vidrio Doble Pared 600 ml –</strong></p>
+<p data-end="583" data-start="162"><br data-end="231" data-start="228">Ideal para compartir o para quienes disfrutan más de una sola taza, esta prensa francesa de 600 ml fue creada para elevar tu experiencia cafetera con estilo y funcionalidad. Su estructura de vidrio de borosilicato de doble pared conserva el calor de forma eficiente, mientras su diseño cromado aporta un toque moderno y sofisticado a tu rutina.</p>
+<p data-end="768" data-start="585">Diseñada pensando en el café de especialidad, permite extraer con precisión todo el cuerpo, los aceites y matices del grano, entregando una infusión limpia, profunda y con carácter.</p>
+<p data-end="837" data-start="770">Para rituales compartidos o grandes momentos contigo y tu café.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>prensa francesa</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9925434638618</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19791</s:price>
+      <s:sku>ACAF1103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

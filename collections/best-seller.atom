@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/best-seller.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-03-25T09:23:03-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/8881787502874</id>
+    <published>2026-03-25T09:23:03-03:00</published>
+    <updated>2026-03-25T09:23:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/aeropress-clasica"/>
+    <title>Aeropress Clasica</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/aeropress-clasica-2262589.webp?v=1778077508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            46590
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span mce-data-marked="1" data-mce-fragment="1">El Aeropress es un novedoso y versatil metodo para preparar café filtrado el cual nos entrega distintos matices de sabores de los clasicos metodos. <span data-mce-fragment="1">Su sistema único lo hace excelente para viajes y paseos al aire libre. Sumado a la diversión de su preparación, se convierte en un método de vanguardia hoy en día entre los amantes del café de especialidad.</span></span></p>
+<p data-mce-fragment="1">¿QUÉ HACE QUE LA EXPERIENCIA CON LA CAFETERA AEROPRESS SEA TAN EXCEPCIONAL?</p>
+<p data-mce-fragment="1"><strong>Extraccion 3 en 1: </strong>Una combinación perfecta de inmersión, aireación y presión se traduce en un sabor excepcionalmente delicioso y en una versatilidad única. La preparación 3 en 1 te permite disfrutar de café americano, cold brew, espresso y lattes.</p>
+<p data-mce-fragment="1"><strong>Rapida inmersion</strong>: La inmersión rápida es clave para nuestro diseño. A diferencia de otras prensas que carecen de filtración, la nuestra incorpora este elemento esencial. Esto te permite utilizar café molido más fino, logrando una infusión más rápida que resulta en menos acidez, sin amargura y sin residuos arenosos.</p>
+<p data-mce-fragment="1"><strong>Presión del aire: </strong>El<strong> </strong>exclusivo sistema de presión de aire utiliza una técnica suave de inmersión para impulsar el agua a través de los granos, aireando y extrayendo solo los sabores más puros y frescos. El resultado es una taza de café con un cuerpo y un acabado que normalmente son difíciles de encontrar en otras preparaciones. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8881787502874</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">46590</s:price>
+      <s:sku>ACAF1073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250296602</id>
+    <published>2026-03-13T09:25:29-03:00</published>
+    <updated>2026-03-13T09:25:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-intensos-caja-50-u"/>
+    <title>Caja 50 Cápsulas de Café Dark roast</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dark-roast-2429441.webp?v=1778077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="153"><strong>Pack de 50 cápsulas de café compatibles con cafeteras Nespresso</strong>, con una selección de sabores intensos y cremosos, en un práctico y reciclable formato.</p>
+<p data-start="155" data-end="193" data-is-last-node="">Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>20 Cápsulas de café Ignite - Intensidad 13</li>
+<li>15 Cásulas de café Terralungo - Intensidad 10</li>
+<li>15 Cápsulas de café Blackbird - Intensidad 12</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250296602</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250394906</id>
+    <published>2026-02-28T11:06:31-03:00</published>
+    <updated>2026-02-28T11:06:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-caja-50"/>
+    <title>Caja 50 Cápsulas de Café Dropmix</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dropmix-9889632.png?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de 50 cápsulas de café en aluminio compatible con cafeteras nespresso.</strong></p>
+<p>Prueba nuestros unicos blends creados por Blackdrop y dos de nuestros favoritos single origin. Distintos perfiles de sabores y tuestes para todo tipo de momentos.</p>
+<p>Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>10 cápsulas de blend Ignite - Intensidad 13</li>
+<li>10 cápsulas de b<span>lend C</span>onnections - Intensidad 8</li>
+<li>10 cápsulas de b<span>lend B</span>alance - Intensidad 9</li>
+<li>10 cápsulas de<span> </span>origen<span> Colombia</span> - Intensidad 7</li>
+<li>10 cápsulas de origen Brasil - Intensidad 9</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250394906</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2074</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075334017306</id>
+    <published>2026-01-20T16:29:50-03:00</published>
+    <updated>2026-01-20T16:29:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-5-doypacks-nav-origen-grano"/>
+    <title>Pack 5 Doypacks Origenes Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-origenes-grano-6231310.png?v=1778077330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack 5 Doypacks Orígenes Grano</strong></p>
+<p>Este un exclusivo pack que celebra la diversidad y la esencia del café de especialidad. Incluye tres doypacks de café en grano cuidadosamente seleccionados, para que explores y disfrutes de sabores únicos de diferentes orígenes.</p>
+<p>Presentado en una elegante caja de cartón duro con cierre magnético y detalles en folia, este diseño único no solo protege la calidad del café, sino que también transforma el pack en un regalo sofisticado y memorable.</p>
+<p>Incluye 5 doypacks con 50 gramos de café:</p>
+<ul>
+<li>Single Origin Etiopia<br>
+</li>
+<li>Single Origin Colombia </li>
+<li>Single Origin Brasil </li>
+<li>Single Origin Peru</li>
+<li>Single Origin Honduras</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075334017306</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>RGRA3099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075333853466</id>
+    <published>2025-12-18T16:34:50-03:00</published>
+    <updated>2025-12-18T16:34:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-3-doypacks-espresso-nav-molido"/>
+    <title>Pack 3 Doypacks Triologia Espresso Molido</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-triologia-espresso-molido-9325231.png?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            15990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de regalo Triologia espresso Molido</strong></p>
+<p>Trilogía Espresso es un <strong>pack de regalo</strong> que reúne tres blends de café que reflejan la evolución del sabor en esta icónica bebida, el <strong>espresso</strong>.</p>
+<p>Desde un clásico espresso intenso y amargo hasta una versión innovadora, dulce y balanceada, cada vez más en tendencia.</p>
+<p>Esta trilogía ofrece una experiencia que sin duda te agradecera.</p>
+<ul>
+<li>Blend Evolve 50g Molido</li>
+<li>Blend Siena 50g Molido</li>
+<li>Blend Black Diamond 50g Molido<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075333853466</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">15990</s:price>
+      <s:sku>RMOL3106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10075333919002</id>
+    <published>2025-12-18T16:25:11-03:00</published>
+    <updated>2025-12-18T16:25:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-3-doypacks-nav-origen-grano"/>
+    <title>Pack 3 Doypacks Origenes Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-3-doypacks-origenes-grano-4783643.png?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            15990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack 3 Doypacks Orígenes Granos</strong></p>
+<p>Este un exclusivo pack que celebra la diversidad y la esencia del café de especialidad. Incluye tres doypacks de café en grano cuidadosamente seleccionados, para que explores y disfrutes de sabores únicos de diferentes orígenes.</p>
+<p>Presentado en una elegante caja de cartón duro con cierre magnético y detalles en folia, este diseño único no solo protege la calidad del café, sino que también transforma el pack en un regalo sofisticado y memorable.</p>
+<p>Incluye 3 doypacks con 50 gramos de café:</p>
+<ul>
+<li>Single Origin Etiopia<br>
+</li>
+<li>Single Origin Colombia </li>
+<li>Single Origin Brasil </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10075333919002</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">15990</s:price>
+      <s:sku>RGRA3095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10074354188570</id>
+    <published>2025-12-16T09:18:22-03:00</published>
+    <updated>2025-12-16T09:18:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-5-doypacks-best-seller-nav-grano"/>
+    <title>Pack 5 Doypacks Unique Moments Grano</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-5-doypacks-unique-moments-grano-9571619.png?v=1778077336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-path-to-node="4"><strong>Regala una experiencia esta Navidad.</strong></p>
+<p data-path-to-node="5">Hemos creado el pack ideal para quienes disfrutan del café. Esta Colección Navideña reúne cinco bolsas de café de especialidad, recién molido y listo para degustar con lo mejor de nuestra seleccion de cafés.</p>
+<p data-path-to-node="5">Este pack ofrece un recorrido por nuestros blends y single origins. Podrás disfrutar una gama amplia de sabores que transformará tu percepción del café.</p>
+<p data-path-to-node="6">Olvídate de buscar el regalo perfecto. <strong>Aquí lo tienes.</strong></p>
+<p data-path-to-node="7"><strong>Tu Regalo de Café Incluye 5 bolsas de café grano de 50 gramos.</strong></p>
+<ul data-path-to-node="8">
+<li>Blend Black Diamond: Intenso y amargo.</li>
+<li>Origen Colombia: Vibrante y dulce.</li>
+<li>Origen Brasil: Intenso y achocolatado.</li>
+<li>Origen Etiopía: Floral y lleno de matices.</li>
+<li>Blend Evolve: Dulce y Achocolatado.</li>
+</ul>
+<hr data-path-to-node="9">
+<h3 data-path-to-node="10">¿Por qué este es el mejor regalo?</h3>
+<ul data-path-to-node="11">
+<li>
+<p data-path-to-node="11,0,0">Variedad: Cinco perfiles de sabor para descubrir.<br></p>
+</li>
+<li>
+<p data-path-to-node="11,2,0">Fácil de Regalar: Una selección premium con la garantía de calidad Blackdrop.</p>
+</li>
+</ul>
+<p data-path-to-node="12"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos grano</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10074354188570</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>RGRA3097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831747916058</id>
+    <published>2025-11-17T15:46:47-03:00</published>
+    <updated>2025-11-17T15:46:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-v60-plastico"/>
+    <title>Cafetera V60 Transparente</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafetera-v60-transparente-2729896.jpg?v=1778077519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            6990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dripper V60 plastico medida 02 para la preparacion de café filtrado. </p>
+<p>Este versátil método, gracias a su filtro, te permite disfrutar de una taza muy limpia.</p>
+<p>*No incluye filtros</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafeteras</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>dripper</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831747916058</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">6990</s:price>
+      <s:sku>ACAF1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9967616950554</id>
+    <published>2025-11-10T17:04:18-03:00</published>
+    <updated>2025-11-10T17:04:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-tumbler-siena"/>
+    <title>Pack Tumbler Negro Siena</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-tumbler-negro-siena-1582242.png?v=1778077389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            26990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Descubre el Café Perfecto en Cualquier Lugar con Nuestro Exclusivo Pack Tumbler.</b></p>
+<p>¿Amante del buen café pero siempre en movimiento? Con nuestro Pack Tumbler, llevar la experiencia de un café recién hecho contigo nunca fue tan fácil.</p>
+<p>Este pack es tu puerta de entrada al innovador mundo del Drip Coffee: un sistema práctico y elegante que te permite preparar una taza excepcional donde sea que estés. Cada sobre contiene 10 gramos del más fino café de especialidad, listo para colocarse sobre nuestro tumbler. Solo agrega agua caliente y disfruta del ritual.</p>
+<p><b>Tu pack incluye:</b></p>
+<ul>
+<li>
+<p><b>5 Sobres de Drip Coffee "Siena":</b> Una selección de granos de especialidad para un sabor y aroma inolvidables.</p>
+</li>
+<li>
+<p><b>1 Tumbler Negro (350 ml):</b> Diseño moderno, tamaño ideal y el compañero perfecto para tu café diario.</p>
+</li>
+</ul>
+<p><b>Es más que un producto, es un regalo ideal:</b> regala la libertad de disfrutar un café de calidad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>para ellas</s:tag>
+    <s:tag>para ellos</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos packs</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9967616950554</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">26990</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9970145853722</id>
+    <published>2025-11-10T16:36:59-03:00</published>
+    <updated>2025-11-10T16:36:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-tumbler-negro-brasil"/>
+    <title>Pack Tumbler Negro Brasil</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-tumbler-negro-brasil-4010796.png?v=1778077339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            26990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Descubre el Café Perfecto en Cualquier Lugar con Nuestro Exclusivo Pack Tumbler.</b></p>
+<p>¿Amante del buen café pero siempre en movimiento? Con nuestro Pack Tumbler, llevar la experiencia de un café recién hecho contigo nunca fue tan fácil.</p>
+<p>Este pack es tu puerta de entrada al innovador mundo del Drip Coffee: un sistema práctico y elegante que te permite preparar una taza excepcional donde sea que estés. Cada sobre contiene 10 gramos del más fino café de especialidad, listo para colocarse sobre nuestro tumbler. Solo agrega agua caliente y disfruta del ritual.</p>
+<p><b>Tu pack incluye:</b></p>
+<ul>
+<li>
+<p><b>5 Sobres de Drip Coffee "Brasil:</b> Una selección de granos de especialidad para un sabor y aroma inolvidables.</p>
+</li>
+<li>
+<p><b>1 Tumbler Negro (350 ml):</b> Diseño moderno, tamaño ideal y el compañero perfecto para tu café diario.</p>
+</li>
+</ul>
+<p><b>Es más que un producto, es un regalo ideal:</b> regala la libertad de disfrutar un café de calidad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navidad25</s:tag>
+    <s:tag>para ellas</s:tag>
+    <s:tag>para ellos</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:tag>regalos packs</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9970145853722</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">26990</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750504730</id>
+    <published>2025-10-28T16:42:48-03:00</published>
+    <updated>2025-10-28T16:42:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-aluminio-etiopia"/>
+    <title>Cápsulas de Café Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/capsulas-de-cafe-etiopia-7505609.webp?v=1778077512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            7490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cápsulas de origen Etiopía</strong></p>
+<p data-start="0" data-end="186">Etiopía es un origen fascinante. Proveniente de la región de Sidama, este café de especialidad es procesado mediante el método natural y secado en camas africanas, ofreciéndonos un perfil excepcionalmente frutal.</p>
+<p data-start="188" data-end="381">Con un tueste medio cuidadosamente realizado para maximizar su dulzor, este café revela un carácter distintivo que combina la vibrante frescura de los frutos rojos con sutiles notas florales y un sutil cuerpo.</p>
+<p data-start="383" data-end="408">Ideal para disfrutar en espresso.</p>
+<p data-start="410" data-end="481" data-is-last-node="">Una cápsula realmente especial, con cafés frescos y llenos de historia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10 Capsulas</s:tag>
+    <s:tag>50 Capsulas</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>Capsula de aluminio</s:tag>
+    <s:tag>Capsula de cafe</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>Capsulas de cafe</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>Intensidad Media</s:tag>
+    <s:tag>Lungo</s:tag>
+    <s:tag>promo10</s:tag>
+    <s:tag>Tueste Medio Alto</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750504730</id>
+      <title>10 UNIDADES / ALUMINIO</title>
+      <s:price currency="CLP">7490</s:price>
+      <s:sku>CCAP2009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749619994</id>
+    <published>2025-05-07T21:39:48-04:00</published>
+    <updated>2025-05-07T21:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/hervidor-con-temperatura-cafe-grano"/>
+    <title>Hervidor kettle cuello de cisne</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/hervidor-kettle-cuello-de-cisne-8965420.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            79990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rapidez, Precisión y Estilo en un Solo Producto.</strong></p>
+<p>Acabas de encontrar la forma ideal y fácil para preparar tu café filtrado. Nuestra tetera eléctrica está diseñada para los amantes del café que valoran la practicidad sin sacrificar el sabor. Con una capacidad de 800ml y un calentamiento agil, disfrutarás de tu bebida en minutos, ideal para esos días con prisa.</p>
+<p>Además de su diseño moderno y elegante, cuenta con características de seguridad como apagado automático y protección contra el sobrecalentamiento. Su cuello de cisne te permite tener el control y precisión total sobre el vertido, a su vez, el mango ergonómico garantiza un vertido suave y controlado, evitando derrames y asegurando una extracción perfecta del café.</p>
+<p>Panel de control fácil de usar con ajustes de temperatura ideales para preparar cualquier infusión.<br></p>
+<p><strong>Especificaciones:</strong><br><br>Capacidad: 0.8L<br>Rango de temperatura ajustado: 40°C - 100°C</p>
+<p>Certificado SEC: E-013-04-23518</p>
+<p>QR:524065</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>hervidor</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749619994</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">79990</s:price>
+      <s:sku>APRE1019BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9619674202394</id>
+    <published>2024-12-03T10:38:49-03:00</published>
+    <updated>2024-12-03T10:38:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/caja-brasil-5-drip"/>
+    <title>Caja 5 Drip Coffee Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-brasil-2293705.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café de grano listo para servir.</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Este café Single Origin Brasil, de tueste medio/alto, presenta un perfil achocolatado propio de los cafés de Brasil, junto con una acidez baja y un final dulce. Disfrútalo solo o mézclalo con leche.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>BRASIL</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:tag>origen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9619674202394</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831747817754</id>
+    <published>2024-02-27T09:01:41-03:00</published>
+    <updated>2024-02-27T09:01:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafetera-ceramica-origami-blanco"/>
+    <title>Origami Ceramica Blanco</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/origami-ceramica-blanco-6994945.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            14990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>El Origami Dripper es uno de los métodos de preparación de café más populares y recientes, tiene la capacidad de preparar hasta 4 tazas de café. Su nombre está inspirado en el arte del origami, el cual consiste en el doblado de papel, reflejando así su diseño que emula las elegantes y coloridas creaciones de este arte.</p>
+<p>Este dripper es ampliamente utilizado en campeonatos mundiales de barismo y se ha convertido en una moda entre los amantes del café. El Origami se caracteriza por su forma, que facilita una rápida extracción del café con un mayor flujo de oxígeno durante la preparación, lo que permite crear recetas versátiles.</p>
+<p>Toda una experencia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cafetera</s:tag>
+    <s:tag>Cafeteras</s:tag>
+    <s:tag>driper</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831747817754</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">14990</s:price>
+      <s:sku>ACAF1038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749194010</id>
+    <published>2024-01-19T10:20:19-03:00</published>
+    <updated>2024-01-19T10:20:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cuchara-menta-cafe-grano"/>
+    <title>Cuchara dosificadora menta</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-menta-5397810.jpg?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuchara dosificadora de café en grano o molido.</p>
+<p>Capacidad 10gramos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cucharas</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749194010</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>APRE1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749718298</id>
+    <published>2024-01-19T10:15:22-03:00</published>
+    <updated>2024-01-19T10:15:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-taza-doble-vidrio-150-ml-espresso"/>
+    <title>Set 2 Tazas Geometric 150 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-2-tazas-geometric-150-ml-4485409.jpg?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set de dos tazas doble vidrio para café.</p>
+<p>Moderno e innovador diseño para elevar tu experiencia.</p>
+<p>Capacidad 150ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>accesorios yuju</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>navidad25</s:tag>
+    <s:tag>tazas</s:tag>
+    <s:tag>vidrio</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749718298</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>ATAZ1034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750603034</id>
+    <published>2023-12-04T17:14:53-03:00</published>
+    <updated>2023-12-04T17:14:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-descafeinado-grano-molido"/>
+    <title>Café Descafeinado Neodecaf</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-descafeinado-neodecaf-4154149.png?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-descafeinado-grano-molido">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Colombia descafeinado</strong></p>
+<p data-start="0" data-end="206">Neodecaf es un café de grano descafeinado de forma natural mediante el proceso <strong data-start="79" data-end="94">Swiss Water</strong>, que utiliza un compuesto derivado de la caña de azúcar como disolvente de la cafeína en un innovador método.</p>
+<p data-start="208" data-end="471">Este café de origen Colombia ofrece un perfil limpio, con un sabor delicado y notas de chocolate, además de sutiles toques de tabaco y canela. Un café perfecto para disfrutar en cualquier momento del día, permitiéndote deleitarte con el placer del café sin restricciones.</p>
+<p data-start="473" data-end="627" data-is-last-node="">Prepáralo en métodos de filtrado o espresso. Su versatilidad lo convierte en una excelente opción para preparaciones con leche, como cappuccinos y lattes.</p>
+<p data-start="473" data-end="627" data-is-last-node="">Un café descafeinado de verdad.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>Dia de la madre</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750603034</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750603034</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750603034</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750603034</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750734106</id>
+    <published>2023-12-04T17:01:16-03:00</published>
+    <updated>2023-12-04T17:01:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad"/>
+    <title>Café Origen Etiopía</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-etiopia-8223412.png?v=1778077515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-etiopia-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Etiopía</strong></p>
+<p data-start="0" data-end="305">Etiopía es un café <strong data-start="19" data-end="36">single origin</strong> de la región de Guji, elaborado mediante un proceso de fermentación natural en camas africanas. Un café reconocido por su perfil frutal característico, destaca por su dulzura notable y sus vibrantes notas a frutos rojos y vino, envolviendo el paladar con un cuerpo delicado.</p>
+<p data-start="307" data-end="466" data-is-last-node="">Este café de grano es ideal para preparar en métodos de filtrado y espresso. Directamente desde la cuna del café, una experiencia de origen que no te puedes perder.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:tag>volumen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750734106</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750537498</id>
+    <published>2023-12-04T17:01:02-03:00</published>
+    <updated>2023-12-04T17:01:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad"/>
+    <title>Café Origen Brasil</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-brasil-9447061.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-brasil-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Brazil</strong></p>
+<p data-start="0" data-end="260">Sumérgete en la experiencia de un café de especialidad de origen Brazil y de proceso natural. Su perfil cremoso, realzado por una distintiva nota achocolatada, refleja la esencia del grano brasileño. Este café es ideal para preparaciones con leche, como cappuccinos o lattes.</p>
+<p data-start="262" data-end="406" data-is-last-node="">Descubre la versatilidad de este café de especialidad, perfecto para preparar en cafeteras espresso, moka o prensa francesa. No te pierdas este viaje sensorial.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 Kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750537498</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750570266</id>
+    <published>2023-12-04T16:57:53-03:00</published>
+    <updated>2023-12-04T16:57:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-colombia-grano-especialidad"/>
+    <title>Café Origen Colombia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-origen-colombia-6094340.png?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            13990 - 41990
+            <a href="https://blackdrop.cl/products/cafe-colombia-grano-especialidad">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido origen Colombia</strong></p>
+<div class="flex flex-col text-sm pb-25">
+<article class="text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" data-turn-id="request-WEB:8e4630d5-3914-461a-b2b8-640dd0f07a15-0" data-testid="conversation-turn-2" data-scroll-anchor="true" data-turn="assistant" tabindex="-1">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div data-message-author-role="assistant" data-message-id="d267e9ba-3d6d-4804-9b71-c61aaac33e7b" dir="auto" data-message-model-slug="gpt-5-2" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full wrap-break-word light markdown-new-styling">
+<p data-start="0" data-end="383">Café de especialidad proveniente de <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Colombia</span></span>, de la región de <span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Belén de Umbría</span></span>, específicamente de la finca Samaria, liderada por la familia Osorio. Este café ofrece un perfil acaramelado, con matices cítricos, notas a panela y chocolate, clásicos del café colombiano, culminando en una taza limpia y balanceada.</p>
+<p data-start="385" data-end="535">Es un café de variedad Tabi, de proceso lavado con fermentación de 12 horas y secado al sol, encarnando toda la tradición colombiana.</p>
+<p data-start="537" data-end="736" data-is-last-node="" data-is-only-node="">Preparalo en métodos filtrados o en espresso. Destaca por su gran versatilidad y merece ser disfrutado en distintos momentos, brindando una experiencia única en cada sorbo.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>origen</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CGRA2032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>CMOL2051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CGRA2029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750570266</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">41990</s:price>
+      <s:sku>CMOL2048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8858189889818</id>
+    <published>2023-12-04T16:55:04-03:00</published>
+    <updated>2023-12-04T16:55:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-blend-grano-siena"/>
+    <title>Café Blend Siena</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-siena-9540856.png?v=1778077513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990 - 37990
+            <a href="https://blackdrop.cl/products/cafe-blend-grano-siena">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Blend Siena</strong></p>
+<p data-start="0" data-end="385"><strong data-start="0" data-end="9">Siena</strong> es un blend de cafés de origen <strong data-start="41" data-end="62">Honduras y Brasil</strong>, inspirado en la esencia de la cultura italiana del café, que quisimos capturar en una mezcla de granos frescos y especiales. Con un tueste alto, se distingue por su gran intensidad en boca, donde las notas achocolatadas se entrelazan con matices de frutos secos, culminando en un amargor medio-alto y un cuerpo cremoso.</p>
+<p data-start="387" data-end="536">Prepáralo en <strong data-start="400" data-end="461">espresso, prensa francesa, moka o el método que prefieras</strong>. Ideal para bebidas con leche como <strong data-start="497" data-end="533">cappuccinos, lattes o macchiatos</strong>.</p>
+<p data-start="538" data-end="616" data-is-last-node=""><strong data-start="538" data-end="616" data-is-last-node="">Una verdadera narrativa en cada taza. Un café con una historia que contar.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE ALTO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CMOL2045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CGRA2021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8858189889818</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CMOL2040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8857888653594</id>
+    <published>2023-12-04T13:30:22-03:00</published>
+    <updated>2023-12-04T13:30:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-blend-grano-evolve"/>
+    <title>Café Blend Evolve</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-evolve-2952156.png?v=1778077512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990 - 37990
+            <a href="https://blackdrop.cl/products/cafe-blend-grano-evolve">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Blend Evolve</strong></p>
+<p data-start="0" data-end="376"><strong data-start="0" data-end="10">Evolve</strong> es un blend de cafés de especialidad de origen <strong data-start="42" data-end="74">Etiopía, Colombia y Honduras</strong>, diseñado como la evolución del perfil clásico del café. Destaca por su dulzura, con delicados toques a uva y una nota principal achocolatada. Esta propuesta de blend responde a la creciente demanda de cafés de especialidad con sabores nuevos, ofreciendo un tueste medio que resalta perfiles vivos y frescos.</p>
+<p data-start="378" data-end="495" data-is-last-node="">Ideal para preparar en métodos de filtrado o espresso.</p>
+<p data-start="378" data-end="495" data-is-last-node="">Un blend único y vanguardista, un café que no puedes perderte.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Colombia</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>Cafe de Honduras</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE MEDIO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CMOL2043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CGRA2019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888653594</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CMOL2038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8857888588058</id>
+    <published>2023-12-04T13:30:21-03:00</published>
+    <updated>2023-12-04T13:30:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-blend-grano-black-diamond"/>
+    <title>Café Blend Black diamond</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cafe-blend-black-diamond-5969782.png?v=1778077513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            12990 - 37990
+            <a href="https://blackdrop.cl/products/cafe-blend-grano-black-diamond">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Café de grano &amp; molido Blend Black Diamond</strong></p>
+<p data-start="0" data-end="332"><strong data-start="0" data-end="17">Black Diamond</strong> es un blend de cafés de origen <strong data-start="49" data-end="69">Brasil y Vietnam</strong>, de tueste oscuro e intenso, que resalta el sabor clásico del café con una distintiva nota amarga, complementada por intensos matices de chocolate amargo y pasas tostadas. Con baja acidez y un cuerpo pronunciado, ofrece una experiencia robusta y satisfactoria.</p>
+<p data-start="334" data-end="565">Lo que distingue a este blend es su cuidada composición, elaborada con cafés de alta calidad, reconocidos por sus características excepcionales. A pesar de su intenso tueste, nunca comprometemos la excelencia de la materia prima.</p>
+<p data-start="567" data-end="765" data-is-last-node="">Puedes prepararlo en moka, prensa francesa o espresso, logrando una gran intensidad de sabores. Además, su perfil fuerte contrasta perfectamente en bebidas con leche, como cappuccinos, lattes y más.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 kilo</s:tag>
+    <s:tag>227 gramos</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Brasil</s:tag>
+    <s:tag>CAFE DE ESPECIALIDAD</s:tag>
+    <s:tag>Cafe de India</s:tag>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>CAFE FILTRADO</s:tag>
+    <s:tag>cafe grano yuju</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>molido</s:tag>
+    <s:tag>TUESTE ALTO</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888588058</id>
+      <title>227 GRAMOS / GRANO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CGRA2027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888588058</id>
+      <title>227 GRAMOS / MOLIDO</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>CMOL2046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888588058</id>
+      <title>1 KILO / GRANO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CGRA2022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8857888588058</id>
+      <title>1 KILO / MOLIDO</title>
+      <s:price currency="CLP">37990</s:price>
+      <s:sku>CMOL2041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250525978</id>
+    <published>2023-11-29T16:27:21-03:00</published>
+    <updated>2023-11-29T16:27:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-siena"/>
+    <title>Caja 5 Drip Coffee Siena</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-siena-5113675.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café fresco listo para servir.</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Siena es un blend con un sabor achocolatado, con notas de caramelo, uvas deshidratadas, y una acidez equilibrada. Este café de grano molido contrasta a la perfección con la leche, ideal para preparar lattes o el que tu quieras.</p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250525978</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250427674</id>
+    <published>2023-11-29T16:27:20-03:00</published>
+    <updated>2023-11-29T16:27:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cafe-grano-drip-etiopia"/>
+    <title>Caja 5 Drip Coffee Etiopia</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-5-drip-coffee-etiopia-4250684.png?v=1778077509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            5490
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Drip coffee, café fresco para llevar</strong></p>
+<p>El <strong>drip coffee</strong> es un innovador y práctico sistema para preparar café de grano molido en cualquier lugar, solo necesitas agua para preparar tu café de grano fresco.</p>
+<p>Este café de origen de Etiopía, con tueste medio, logra un café balanceado entre acidez, dulzor y amargor. Sus notas frutales, junto con toques florales y una acidez media, permiten disfrutar de un café de grano con un sabor fresco y novedoso. </p>
+<p>Cada caja contiene 5 <strong>drip coffee</strong> con 10 gramos de café molido cada uno.</p>
+<p>Vive la experiencia del <strong>Drip coffee</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drip</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>Cafe de Etiopia</s:tag>
+    <s:tag>CAFE MOLIDO</s:tag>
+    <s:tag>Dia de la madre</s:tag>
+    <s:tag>drip</s:tag>
+    <s:tag>drip yuju</s:tag>
+    <s:tag>ETIOPIA</s:tag>
+    <s:tag>origen</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250427674</id>
+      <title>5 UNIDADES</title>
+      <s:price currency="CLP">5490</s:price>
+      <s:sku>CDRI2015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

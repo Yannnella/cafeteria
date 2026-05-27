@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/preparacion.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-03-21T13:17:23-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/9979844526362</id>
+    <published>2026-03-21T13:17:23-03:00</published>
+    <updated>2026-03-21T13:17:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/tarro-almacenamiento-negro"/>
+    <title>Contenedor De Café Vacuum Negro 500g</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/contenedor-de-cafe-vacuum-negro-500g-9668548.webp?v=1778077338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            22990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-start="164" data-end="232">Canister de Café de Acero Inoxidable con Sistema de Vacio – 500 g</h3>
+<p data-start="233" data-end="516">Mantén la frescura de tu café por más tiempo con nuestro canister premium de acero inoxidable. Diseñado con un sistema de vacío (Vacuum) que extrae el oxígeno del interior, protege tus granos o café molido de la humedad, la luz y el aire, principales enemigos de la calidad.</p>
+<p data-start="518" data-end="853">Con una capacidad de hasta 500 gramos, es el complemento ideal para conservar tu café de especialidad en perfectas condiciones, preservando su aroma y sabor original. Su estructura en acero inoxidable lo hace resistente, elegante y fácil de limpiar, convirtiéndolo en una pieza duradera y estética para tu cocina o barra de café.</p>
+<p data-start="855" data-end="998">Perfecto para cafeterías, oficinas o en casa, este canister no solo es funcional, también aporta diseño y practicidad a tu ritual diario.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>para ellos</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:tag>Tarro</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9979844526362</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">22990</s:price>
+      <s:sku>APRE1111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10104256299290</id>
+    <published>2026-01-22T10:18:34-03:00</published>
+    <updated>2026-01-22T10:18:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/set-de-4-bombillas"/>
+    <title>Set De 4 Bombillas</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/set-de-4-bombillas-8468679.jpg?v=1778077329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3992
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bombilla de acrilico para Ice Coffee</strong></p>
+<p data-start="26" data-end="247">Disfruta tu iced coffee con estilo. Los detalles sí importan, por eso hemos traído para ti un set de 4 bombillas de distintos colores, pensadas para disfrutar con estilo todas tus preparaciones de café, tanto heladas como calientes.</p>
+<p data-start="249" data-end="303">Set de 4 bombillas de acrílico con limpiador incluido.</p>
+<p data-start="305" data-end="323" data-is-last-node="" data-is-only-node=""><strong>Drink Ice Coffee</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10104256299290</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3992</s:price>
+      <s:sku>AOTR1134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10093329842458</id>
+    <published>2026-01-09T12:00:22-03:00</published>
+    <updated>2026-01-09T12:00:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/leche-de-avena-nude-1-litro"/>
+    <title>Leche de avena Nude 1 LITRO</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/leche-de-avena-nude-1-litro-8111903.jpg?v=1778077331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="isSelectedEnd"><strong><span>Leche Nude</span></strong><span> es la expresión más pura de la leche de avena: natural, honesta y sin artificios. Elaborada con ingredientes cuidadosamente seleccionados, conserva su sabor auténtico y su calidad original, ofreciendo una experiencia fresca y nutritiva en cada vaso.</span></p>
+<p><strong><span>Leche Nude</span></strong><span> ha sido desarrollada para ofrecer un desempeño superior en aplicaciones de café de especialidad. Su estructura proteica y equilibrio de grasas permiten una </span>textura densa, estable y sedosa, ideal para la vaporización y la creación de latte art de alta precisión.</p>
+<p><span>Ideal para mezcla con nuestro Nitro Cold Brew.</span></p>
+<p><span>1 Litro.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10093329842458</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>OCAF7034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10090284089626</id>
+    <published>2026-01-07T08:39:31-03:00</published>
+    <updated>2026-01-07T08:39:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/lata-350-ml-nitro-cold-brew"/>
+    <title>Nitro Cold Brew 330ML</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/nitro-cold-brew-330ml-8633323.webp?v=1778077332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            2990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nitro Cold brew </strong></p>
+<p>¿Necesitas refrescarte este verano? </p>
+<p>Una nueva innovación llega a Blackdrop. Te presentamos nuestro <strong data-end="82" data-start="63">Nitro Cold Brew</strong>, elaborado a partir de cafés de especialidad de Etiopía, de proceso natural, y Brasil, de proceso honey. Su infusión con nitrógeno eleva tu experiencia, entregando una textura cremosa y sedosa, que realza un café extremadamente limpio y expresivo.</p>
+<p>Posee un exquisito perfil acaremelado, dulce y con toques a frutos maduros.</p>
+<p>Ideal para preparaciones con leche, tonica, gin o lo que tu quieras logrando bebidas únicas.</p>
+<p>Presentacion //</p>
+<ul>
+<li>330ml por botella.</li>
+<li>Blend de Etiopia Natural y Brasil Honey.</li>
+</ul>
+<p>Consideraciones +</p>
+<ul>
+<li>Tomar muy helado y agitar antes de abrir.</li>
+</ul>
+<p><strong>Un imperdible de este verano.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAFE EN GRANO</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>coldbrew</s:tag>
+    <s:tag>grano</s:tag>
+    <s:tag>nuevo</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10090284089626</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">2990</s:price>
+      <s:sku>OCAF7033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749619994</id>
+    <published>2025-05-07T21:39:48-04:00</published>
+    <updated>2025-05-07T21:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/hervidor-con-temperatura-cafe-grano"/>
+    <title>Hervidor kettle cuello de cisne</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/hervidor-kettle-cuello-de-cisne-8965420.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            79990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rapidez, Precisión y Estilo en un Solo Producto.</strong></p>
+<p>Acabas de encontrar la forma ideal y fácil para preparar tu café filtrado. Nuestra tetera eléctrica está diseñada para los amantes del café que valoran la practicidad sin sacrificar el sabor. Con una capacidad de 800ml y un calentamiento agil, disfrutarás de tu bebida en minutos, ideal para esos días con prisa.</p>
+<p>Además de su diseño moderno y elegante, cuenta con características de seguridad como apagado automático y protección contra el sobrecalentamiento. Su cuello de cisne te permite tener el control y precisión total sobre el vertido, a su vez, el mango ergonómico garantiza un vertido suave y controlado, evitando derrames y asegurando una extracción perfecta del café.</p>
+<p>Panel de control fácil de usar con ajustes de temperatura ideales para preparar cualquier infusión.<br></p>
+<p><strong>Especificaciones:</strong><br><br>Capacidad: 0.8L<br>Rango de temperatura ajustado: 40°C - 100°C</p>
+<p>Certificado SEC: E-013-04-23518</p>
+<p>QR:524065</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>hervidor</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749619994</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">79990</s:price>
+      <s:sku>APRE1019BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9835138941210</id>
+    <published>2025-03-20T08:24:01-03:00</published>
+    <updated>2025-03-20T08:24:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/server-600-ml-negro"/>
+    <title>Server Smoke 600 ML</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/server-smoke-600-ml-4802429.jpg?v=1778077391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            13990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="47" data-start="0"><strong data-end="45" data-start="0">Elegancia y funcionalidad en cada vertido</strong></p>
+<p data-end="404" data-start="49">Descubre nuestro <strong data-end="94" data-start="66">server de café de 600 ml</strong>, diseñado para realzar tu experiencia cafetera. Fabricado con<strong> </strong>vidrio resistente al calor y un elegante acabado cromado, combina durabilidad y estilo en una sola pieza. Su diseño ergonómico permite un facil manejo, mientras que su estructura robusta garantiza una experiencia segura y sofisticada.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="597" data-start="406">Ideal para baristas y amantes del café, este server es el complemento perfecto para preparar y compartir tu café favorito con un toque de distinción. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9835138941210</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">13990</s:price>
+      <s:sku>ATET1092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9709760479514</id>
+    <published>2024-12-04T12:13:32-03:00</published>
+    <updated>2024-12-04T12:13:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/portacapsulas-negro"/>
+    <title>Portacápsulas Negro</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/portacapsulas-negro-2702453.webp?v=1778077390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organiza tus cápsulas de café de forma elegante y funcional con nuestro portacápsulas de metal negro. Diseñado específicamente para cápsulas compatibles con Nespresso, este accesorio combina estilo y practicidad.</p>
+<ul>
+<li>
+<strong>Diseño moderno:</strong> Su acabado en metal negro aporta un toque sofisticado a tu cocina u oficina.</li>
+<li>
+<strong>Gran capacidad:</strong> Mantén tus cápsulas ordenadas y siempre a mano.</li>
+<li>
+<strong>Duradero y resistente:</strong> Fabricado con materiales de alta calidad para una larga vida útil.</li>
+<li>
+<strong>Ahorra espacio:</strong> Su diseño compacto y vertical optimiza el uso del espacio.</li>
+</ul>
+<p>Convierte tu rincón de café en un lugar aún más especial.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capsula</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9709760479514</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>AOTR1084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750340890</id>
+    <published>2024-02-21T09:10:18-03:00</published>
+    <updated>2024-02-21T09:10:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/tetera-800-ml-blanco-cafe-grano"/>
+    <title>Tetera Cuello de Cisne Blanca</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/tetera-cuello-de-cisne-blanca-5511668.jpg?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            44990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Tetera de cuello de cisne con una capacidad de 800 ml. </span></p>
+<p><span>Su innovador diseño permite controlar con precisión el flujo del agua durante la preparación, logrando vertidos controlados. </span></p>
+<p><span>Combina perfectamente con tu espacio cafetero en casa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>teteras</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750340890</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">44990</s:price>
+      <s:sku>ATET1031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749554458</id>
+    <published>2024-01-19T13:02:57-03:00</published>
+    <updated>2024-01-19T13:02:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cuchara-negra-cafe-grano"/>
+    <title>Cuchara dosificadora blanca</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-blanca-9037249.jpg?v=1778077516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuchara dosificadora para café de grano o molido.</p>
+<p>Capacidad 10gramos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cucharas</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749554458</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>APRE1016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749194010</id>
+    <published>2024-01-19T10:20:19-03:00</published>
+    <updated>2024-01-19T10:20:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/cuchara-menta-cafe-grano"/>
+    <title>Cuchara dosificadora menta</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/cuchara-dosificadora-menta-5397810.jpg?v=1778077517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            3990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cuchara dosificadora de café en grano o molido.</p>
+<p>Capacidad 10gramos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>cucharas</s:tag>
+    <s:tag>mama</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749194010</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">3990</s:price>
+      <s:sku>APRE1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831750209818</id>
+    <published>2023-11-20T18:26:00-03:00</published>
+    <updated>2023-11-20T18:26:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/server-600-ml-cafe-grano"/>
+    <title>Server de Café 600 ml</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/server-de-cafe-600-ml-1947814.jpg?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="47" data-start="0"><strong data-end="45" data-start="0">Elegancia y funcionalidad en cada vertido</strong></p>
+<p data-end="404" data-start="49">Descubre nuestro <strong data-end="94" data-start="66">server de café de 600 ml</strong>, diseñado para realzar tu experiencia cafetera. Fabricado con<strong> </strong>vidrio resistente al calor y un elegante acabado cromado, combina durabilidad y estilo en una sola pieza. Su diseño ergonómico permite un facil manejo, mientras que su estructura robusta garantiza una experiencia segura y sofisticada.</p>
+<p data-is-only-node="" data-is-last-node="" data-end="597" data-start="406">Ideal para baristas y amantes del café, este server es el complemento perfecto para preparar y compartir tu café favorito con un toque de distinción</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:tag>server</s:tag>
+    <s:tag>teteras</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831750209818</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>ATET1030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8831749226778</id>
+    <published>2023-11-20T18:25:45-03:00</published>
+    <updated>2023-11-20T18:25:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/balanza-cafe"/>
+    <title>Balanza de café</title>
+    <s:type>Accesorios</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/balanza-de-cafe-5605547.jpg?v=1778077518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Accesorios<br>
+        <strong>Precio: </strong>
+            40990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Balanza electrónica blackdrop con timer para medir el ratio de tus preparaciones.</p>
+<p class="p1">Medir el ratio ( café/agua ) en la preparación te permite obtener consistencia y una taza replicable.</p>
+<p class="p1">Rango de precisión 0,1gr.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesorios</s:tag>
+    <s:tag>balanzas</s:tag>
+    <s:tag>preparacion</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8831749226778</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">40990</s:price>
+      <s:sku>APRE1015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

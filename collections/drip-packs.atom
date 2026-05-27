@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/drip-packs.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-04-23T20:03:51-04:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10200606998810</id>
+    <published>2026-04-23T20:03:51-04:00</published>
+    <updated>2026-04-23T20:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/pack-16-drips-rectangular-ddm"/>
+    <title>Pack 16 Drip Coffee A Daily Pause</title>
+    <s:type>Regalos</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/pack-16-drip-coffee-a-daily-pause-9877708.webp?v=1778077148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Regalos<br>
+        <strong>Precio: </strong>
+            19990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Pack 16 Drip Coffee A Daily Pause — Día de la Madre</strong></p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Regálale a mamá una pausa que se merece. Esta elegante caja de diseño experiencial reúne 16 drip coffees de destacados orígenes únicos, una invitación a descubrir perfiles de sabor extraordinarios: cítricos, dulces y achocolatados.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Porque cada taza es un momento solo para ella. Su práctico formato drip permite prepararlo en cualquier lugar, solo necesitas agua caliente.</p>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]"><strong>Incluye:</strong></p>
+<ul class="[li_&amp;]:mb-0 [li_&amp;]:mt-1 [li_&amp;]:gap-1 [&amp;:not(:last-child)_ul]:pb-1 [&amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3">
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Colombia</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Siena</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Origen Etiopía</li>
+<li class="whitespace-normal break-words pl-2">3 Drip Coffee Evolve</li>
+<li class="whitespace-normal break-words pl-2">4 Drip Coffee Origen Brasil</li>
+</ul>
+<p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Drink Good Coffee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>drip</s:tag>
+    <s:tag>regalos</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10200606998810</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">19990</s:price>
+      <s:sku>RDRI3108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

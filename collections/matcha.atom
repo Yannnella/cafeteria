@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/matcha.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2025-10-21T13:16:22-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/10024990114074</id>
+    <published>2025-10-21T13:16:22-03:00</published>
+    <updated>2025-10-21T13:16:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/butterfly-pea-latte-250-grs"/>
+    <title>Butterfly Pea Latte 250 Grs</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/butterfly-pea-latte-250-grs-6290407.jpg?v=1778077339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-end="88" data-start="0"><strong data-end="86" data-start="0">Mezcla de flor de guisante azul y suaves notas de jengibre. Rica en antioxidantes.</strong></p>
+<p data-end="88" data-start="0">Butterfly Pea Latte es una cremosa y exquisita mezcla que combina la flor de guisante azul con suaves notas de jengibre. Su intenso color azul natural y alto contenido de antioxidantes se fusionan con las propiedades revitalizantes del jengibre, ofreciendo una bebida equilibrada, dulce y nutritiva. Cada sorbo aporta bienestar y energía, convirtiéndose en una experiencia sensorial ideal para disfrutar en cualquier momento del día.</p>
+<p data-end="88" data-start="0"><br data-end="422" data-start="419">Mientras la flor azul contribuye a reducir el estrés y estimular la mente, el jengibre aporta energía y vitalidad, dando vida a una bebida que celebra la armonía entre cuerpo y mente.</p>
+<p data-end="620" data-start="609"><strong data-end="618" data-start="609">250 g</strong></p>
+<p data-end="681" data-start="622"><strong data-end="639" data-start="622">Ingredientes:</strong></p>
+<p data-end="681" data-start="622">Alulosa, flor de guisante y jengibre.</p>
+<p data-end="701" data-start="683"><strong data-end="699" data-start="683">Preparación:</strong></p>
+<ol data-is-only-node="" data-is-last-node="" data-end="869" data-start="702">
+<li data-end="740" data-start="702">
+<p data-end="740" data-start="705">Agrega 10 g de polvo en una taza.</p>
+</li>
+<li data-end="785" data-start="741">
+<p data-end="785" data-start="744">Disuélvelo en un poco de agua caliente.</p>
+</li>
+<li data-is-last-node="" data-end="869" data-start="786">
+<p data-is-last-node="" data-end="869" data-start="789">Incorpora 200 ml de leche caliente y revuelve. Idealmente usa leche texturizada.</p>
+</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10024990114074</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>OLAT7027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10024990015770</id>
+    <published>2025-10-21T13:16:11-03:00</published>
+    <updated>2025-10-21T13:16:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/beetroot-cacao-latte-250-grs"/>
+    <title>Beetroot Cacao Latte 250 Grs</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/beetroot-cacao-latte-250-grs-6929940.jpg?v=1778077338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mezcla saludable y cremosa de betarraga, cacao y jengibre. Cargada de vitaminas y minerales.</strong></p>
+<p><strong>Beetroot Cacao Latte</strong> es una mezcla saludable y cremosa de betarraga, cacao (60%) y jengibre que aporta vitaminas, minerales y antioxidantes. La sinergia de beneficios favorece la desintoxicación, ayuda a mantener una presión arterial equilibrada y, junto con el cacao, estimula la liberación de hormonas de la felicidad para ofrecer energía y bienestar en cada sorbo.</p>
+<p><strong data-end="359" data-start="342">Ingredientes:</strong></p>
+<p>Betarraga, Cacao 60%, Jengibre y Alulosa. </p>
+<p><strong data-end="421" data-start="402">Contenido neto:</strong> 250 g.</p>
+<p><strong data-end="445" data-start="429">Preparación:</strong></p>
+<ol>
+<li>Agrega 10 g de polvo a una taza</li>
+<li>Disuélvelo en un poco de agua caliente</li>
+<li>Luego incorpora 200 ml de leche caliente, idealmente utiliza leche texturizada para una mejor cremosidad.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10024990015770</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>OLAT7026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/10024989950234</id>
+    <published>2025-10-21T13:15:56-03:00</published>
+    <updated>2025-10-21T13:15:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/matcha-latte-250-grs"/>
+    <title>Matcha Latte 250 Grs</title>
+    <s:type>OTROS PRODUCTOS</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/matcha-latte-250-grs-9151458.jpg?v=1778077337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>OTROS PRODUCTOS<br>
+        <strong>Precio: </strong>
+            12990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div data-message-author-role="assistant" data-message-id="b084feb1-da24-4a9f-b666-d91f422ce177" dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-1" data-message-model-slug="gpt-5">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full break-words light markdown-new-styling">
+<p data-start="0" data-end="94"><strong data-start="0" data-end="16">Matcha Latte</strong><br data-start="16" data-end="19">Cremosa y natural mezcla que combina el sabor vegetal y umami del matcha. Detox, quema de grasa y fortalecimiento del sistema inmune, son algunos beneficios del Matcha Latte.</p>
+<p data-start="96" data-end="473"><br data-start="211" data-end="214">Gracias a sus propiedades de energía prolongada y sin efectos secundarios, nuestro Green Matcha Latte es una alternativa saludable y un gran complemento al café de la mañana.</p>
+<p data-start="96" data-end="473"><br data-start="380" data-end="383">Revitaliza cuerpo y mente, entregando claridad, concentración y bienestar en cada sorbo.</p>
+<p data-start="475" data-end="486"><strong data-start="475" data-end="484">250 g</strong></p>
+<p data-start="488" data-end="527"><strong data-start="488" data-end="505">Ingredientes:</strong><br data-start="505" data-end="508">Matcha y alulosa.</p>
+<p data-start="683" data-end="701"><strong data-start="683" data-end="699">Preparación:</strong></p>
+<ol data-start="702" data-end="869" data-is-last-node="" data-is-only-node="">
+<li data-start="702" data-end="740">
+<p data-start="705" data-end="740">Agrega 5 g de polvo en una taza.</p>
+</li>
+<li data-start="741" data-end="785">
+<p data-start="744" data-end="785">Disuélvelo en un poco de agua caliente.</p>
+</li>
+<li data-start="786" data-end="869" data-is-last-node="">
+<p data-start="789" data-end="869" data-is-last-node="">Incorpora 200 ml de leche caliente y revuelve. Idealmente usa leche texturizada.</p>
+</li>
+</ol>
+<p data-start="529" data-end="569" data-is-last-node="" data-is-only-node="">Tómalo caliente o con hielo, según prefieras.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/10024989950234</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">12990</s:price>
+      <s:sku>OLAT7028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9691271430426</id>
+    <published>2025-09-29T19:35:00-03:00</published>
+    <updated>2025-09-29T19:35:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/matcha-puro-35-grs-adagio"/>
+    <title>Matcha Puro 35grs Adagio</title>
+    <s:type>TE</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/matcha-puro-35grs-adagio-2749832.jpg?v=1778077391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>TE<br>
+        <strong>Precio: </strong>
+            16990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="131" data-end="619">El Matcha es el gran protagonista de la Ceremonia del Té Japonesa. Se trata de un delicado polvo obtenido al moler finísimas hojas de té verde. Para su elaboración solo se seleccionan las hojas más tiernas y de mejor calidad, cultivadas bajo sombra (como el prestigioso Gyokuro). Tras la cosecha, las hojas se dejan secar, se les retiran las venas y reciben el nombre de tencha. Posteriormente, se muelen lentamente en molinos de granito hasta transformarse en un polvo muy apreciado.</p>
+<p data-start="621" data-end="907">Prepararlo es sencillo: coloca una cucharadita de matcha en una taza (o la cantidad que prefieras), añade unas gotas de agua caliente a 70 °C y bate enérgicamente hasta obtener una pasta homogénea. Luego agrega el resto del agua, mezcla y disfruta de su sabor intenso y revitalizante.</p>
+<p data-start="909" data-end="952"><strong data-start="909" data-end="920">Origen:</strong> Japón<br data-start="926" data-end="929"><strong data-start="929" data-end="939">Grado:</strong> Ceremonial</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9691271430426</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">16990</s:price>
+      <s:sku>TMTC1951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/9691271364890</id>
+    <published>2025-09-29T17:53:09-03:00</published>
+    <updated>2025-09-29T17:53:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/matcha-arandano-35-grs-adagio"/>
+    <title>Matcha Arandano 35gr Adagio</title>
+    <s:type>TE</s:type>
+    <s:vendor>Adagio Teas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/matcha-arandano-35gr-adagio-4973583.jpg?v=1778077392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Adagio Teas<br>
+        <strong>Tipo: </strong>TE<br>
+        <strong>Precio: </strong>
+            11990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="129" data-end="410">Al beber té matcha estás incorporando a tu organismo todos los nutrientes y beneficios de la hoja entera del té verde, en lugar de solo lo que se extrae en una infusión convencional. Esta presentación combina matcha japonés auténtico con un toque de aceite esencial de arándanos.</p>
+<p data-start="412" data-end="660">Cada sorbo está cargado de vitaminas, fibras y compuestos que aportan propiedades antioxidantes, ayudan a depurar el organismo y favorecen el metabolismo. Es, además, un excelente compañero para iniciar la jornada con energía natural y sostenida.</p>
+<p data-start="662" data-end="984">El matcha es el protagonista de la Ceremonia del Té Japonesa. Para su elaboración se seleccionan las hojas más tiernas cultivadas a la sombra, se dejan secar, se eliminan sus venas y pasa a llamarse <em data-start="861" data-end="869">tencha</em>. Finalmente, estas hojas se muelen lentamente en molinos de granito hasta obtener un polvo fino y de gran valor.</p>
+<p data-start="986" data-end="1277">Prepararlo es muy sencillo, coloca una cucharadita de matcha por taza (o según tu preferencia), añade unas gotas de agua caliente a unos 70 °C y bate en movimientos en forma de “M” hasta formar una pasta. Luego agrega el resto del agua, mezcla y disfruta de su sabor único y revitalizante.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://blackdrop.cl/products/9691271364890</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">11990</s:price>
+      <s:sku>TMTC2078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

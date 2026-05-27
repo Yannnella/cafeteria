@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://blackdrop.cl/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://blackdrop.cl/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://blackdrop.cl/collections/packs.atom"/>
+  <title>Blackdrop Coffee</title>
+  <updated>2026-03-13T09:25:29-03:00</updated>
+  <author>
+    <name>Blackdrop Coffee</name>
+  </author>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250296602</id>
+    <published>2026-03-13T09:25:29-03:00</published>
+    <updated>2026-03-13T09:25:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-intensos-caja-50-u"/>
+    <title>Caja 50 Cápsulas de Café Dark roast</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dark-roast-2429441.webp?v=1778077511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="0" data-end="153"><strong>Pack de 50 cápsulas de café compatibles con cafeteras Nespresso</strong>, con una selección de sabores intensos y cremosos, en un práctico y reciclable formato.</p>
+<p data-start="155" data-end="193" data-is-last-node="">Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>20 Cápsulas de café Ignite - Intensidad 13</li>
+<li>15 Cásulas de café Terralungo - Intensidad 10</li>
+<li>15 Cápsulas de café Blackbird - Intensidad 12</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blend</s:tag>
+    <s:tag>cafe</s:tag>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250296602</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://blackdrop.cl/products/8852250394906</id>
+    <published>2026-02-28T11:06:31-03:00</published>
+    <updated>2026-02-28T11:06:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://blackdrop.cl/products/capsulas-nespresso-promocion-mix-caja-50"/>
+    <title>Caja 50 Cápsulas de Café Dropmix</title>
+    <s:type>Cafe</s:type>
+    <s:vendor>Blackdrop Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/1395/5354/files/caja-50-capsulas-de-cafe-dropmix-9889632.png?v=1778077514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Blackdrop Coffee<br>
+        <strong>Tipo: </strong>Cafe<br>
+        <strong>Precio: </strong>
+            30990
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pack de 50 cápsulas de café en aluminio compatible con cafeteras nespresso.</strong></p>
+<p>Prueba nuestros unicos blends creados por Blackdrop y dos de nuestros favoritos single origin. Distintos perfiles de sabores y tuestes para todo tipo de momentos.</p>
+<p>Este pack de cápsulas de café incluye:</p>
+<ul>
+<li>10 cápsulas de blend Ignite - Intensidad 13</li>
+<li>10 cápsulas de b<span>lend C</span>onnections - Intensidad 8</li>
+<li>10 cápsulas de b<span>lend B</span>alance - Intensidad 9</li>
+<li>10 cápsulas de<span> </span>origen<span> Colombia</span> - Intensidad 7</li>
+<li>10 cápsulas de origen Brasil - Intensidad 9</li>
+</ul>
+<p><span>Recuerda depositar tus cápsulas usadas en nuestros puntos de reciclaje ubicados en nuestras tiendas de Alto Las Condes, Parque Arauco, Costanera Center y Marina Arauco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>capsula</s:tag>
+    <s:tag>capsulas</s:tag>
+    <s:tag>capsulas yuju</s:tag>
+    <s:tag>pack</s:tag>
+    <s:variant>
+      <id>https://blackdrop.cl/products/8852250394906</id>
+      <title>Default Title</title>
+      <s:price currency="CLP">30990</s:price>
+      <s:sku>CCAP2074</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
